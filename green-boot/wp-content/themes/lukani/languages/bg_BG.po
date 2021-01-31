@@ -1,0 +1,3255 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lukani 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2019-10-02 14:08+0700\n"
+"PO-Revision-Date: 2021-01-07 22:15+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: \n"
+"Language: bg\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lukani/404.php:18
+msgid "404"
+msgstr ""
+
+#: ../lukani/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr "СТРАНИЦАТА НЕ БЕШЕ НАМЕРЕНА"
+
+#: ../lukani/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, "
+"name changed or is temporarity unavailable."
+msgstr ""
+"За съжаление страницата, която търсите, не съществува, премахната е, името е "
+"променено или временността не е налична."
+
+#: ../lukani/404.php:22
+msgid "Back to home"
+msgstr "Към начална страница"
+
+#: ../lukani/404.php:22
+msgid "Back to home page"
+msgstr "Към начална страница"
+
+#: ../lukani/author.php:80
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Авторски архиви: %s"
+
+#: ../lukani/author.php:109
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../lukani/category.php:72
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив на Категориите: %s"
+
+#: ../lukani/class-tgm-plugin-activation.php:327 ../lukani/functions.php:1457
+msgid "Install Required Plugins"
+msgstr "Инсталирайте необходимите приставки"
+
+#: ../lukani/class-tgm-plugin-activation.php:328 ../lukani/functions.php:1458
+msgid "Install Plugins"
+msgstr "Инсталирайте приставки"
+
+#: ../lukani/class-tgm-plugin-activation.php:330 ../lukani/functions.php:1459
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Инсталиране на приставки: %s"
+
+#: ../lukani/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Актуализиране на приставките"
+
+#: ../lukani/class-tgm-plugin-activation.php:333 ../lukani/functions.php:1460
+msgid "Something went wrong with the plugin API."
+msgstr "Нещо се обърка с приставката API."
+
+#: ../lukani/class-tgm-plugin-activation.php:385 ../lukani/functions.php:1471
+msgid "Return to Required Plugins Installer"
+msgstr "Върнете се към инсталатора на задължителни приставки"
+
+#: ../lukani/class-tgm-plugin-activation.php:386
+#: ../lukani/class-tgm-plugin-activation.php:827
+#: ../lukani/class-tgm-plugin-activation.php:2533
+#: ../lukani/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Върнете се в таблото за управление"
+
+#: ../lukani/class-tgm-plugin-activation.php:387
+#: ../lukani/class-tgm-plugin-activation.php:3159 ../lukani/functions.php:1472
+msgid "Plugin activated successfully."
+msgstr "Приставката е активирана успешно."
+
+#: ../lukani/class-tgm-plugin-activation.php:388
+#: ../lukani/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Следната беше активирана успешно:"
+
+#: ../lukani/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Не са предприети действия. Приставката %1$s вече е активна."
+
+#: ../lukani/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Приставката не е активирана. За тази тема е необходима по-висока версия на "
+"%s. Моля, актуализирайте приставката."
+
+#: ../lukani/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Всички приставки са инсталирани и активирани успешно. %1$s"
+
+#: ../lukani/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отхвърлете това известие"
+
+#: ../lukani/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Има една или повече задължителни или препоръчителни приставки за "
+"инсталиране, актуализиране или активиране."
+
+#: ../lukani/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Моля, свържете се с администратора на този сайт за помощ."
+
+#: ../lukani/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Този плъгин трябва да бъде актуализиран, за да бъде съвместим с вашата тема."
+
+#: ../lukani/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Необходима актуализация"
+
+#: ../lukani/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../lukani/class-tgm-plugin-activation.php:934
+#: ../lukani/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Моля, свържете се с доставчика на приставки и ги помолете да опаковат своите "
+"приставки в съответствие с насоките на WordPress."
+
+#: ../lukani/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакетът за отдалечена приставка се състои от повече от един файл, но "
+"файловете не са опаковани в папка."
+
+#: ../lukani/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../lukani/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Задължително"
+
+#: ../lukani/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Препоръчително"
+
+#: ../lukani/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Хранилище на WordPress"
+
+#: ../lukani/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Външен източник"
+
+#: ../lukani/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварително опаковани"
+
+#: ../lukani/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не е инсталирано"
+
+#: ../lukani/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Инсталиран, но не активиран"
+
+#: ../lukani/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активен"
+
+#: ../lukani/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Необходимата актуализация не е налична"
+
+#: ../lukani/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Изисква актуализация"
+
+#: ../lukani/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Препоръчва се актуализация"
+
+#: ../lukani/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../lukani/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr "Да инсталираш <span class=\"count\">(%s)</span>"
+
+#: ../lukani/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr "Налична актуализация <span class=\"count\">(%s)</span>"
+
+#: ../lukani/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr "За да активирате <span class=\"count\">(%s)</span>"
+
+#: ../lukani/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr "Неизвестен"
+
+#: ../lukani/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Инсталирана версия:"
+
+#: ../lukani/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимално необходима версия:"
+
+#: ../lukani/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Налична версия:"
+
+#: ../lukani/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Няма приставки за инсталиране, актуализиране или активиране."
+
+#: ../lukani/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Приставка"
+
+#: ../lukani/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Източник"
+
+#: ../lukani/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: ../lukani/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: ../lukani/class-tgm-plugin-activation.php:2554
+#: ../lukani/woocommerce/myaccount/my-orders.php:42
+#: ../lukani/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr "Статус"
+
+#: ../lukani/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Инсталирай %2$s"
+
+#: ../lukani/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Актуализиране %2$s"
+
+#: ../lukani/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активирате %2$s"
+
+#: ../lukani/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Съобщение за надстройка от автора на приставката:"
+
+#: ../lukani/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Инсталирай"
+
+#: ../lukani/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Актуализиране"
+
+#: ../lukani/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активирате"
+
+#: ../lukani/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не са избрани приставки за инсталиране. Не са предприети действия."
+
+#: ../lukani/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не са избрани приставки за актуализиране. Не са предприети действия."
+
+#: ../lukani/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Понастоящем няма налични приставки, които да бъдат инсталирани."
+
+#: ../lukani/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Понастоящем няма налични приставки, които да бъдат актуализирани."
+
+#: ../lukani/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Не са избрани приставки, които да бъдат активирани. Не са предприети "
+"действия."
+
+#: ../lukani/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Понастоящем няма налични приставки, които да бъдат активирани."
+
+#: ../lukani/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активирането на приставката не бе успешно."
+
+#: ../lukani/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Актуализиране на приставката."
+
+#: ../lukani/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "При инсталирането възникна грешка %1$s: <strong>%2$s</strong>."
+
+#: ../lukani/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Инсталирането на %1$s не бе успешно."
+
+#: ../lukani/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесът на инсталиране и активиране започва. Този процес може да отнеме "
+"известно време на някои домакини, така че, моля, бъдете търпеливи."
+
+#: ../lukani/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s инсталиран и активиран успешно."
+
+#: ../lukani/class-tgm-plugin-activation.php:3509
+#: ../lukani/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Покажи детайли"
+
+#: ../lukani/class-tgm-plugin-activation.php:3509
+#: ../lukani/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скриване на подробности"
+
+#: ../lukani/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Всички инсталации и активиране са завършени."
+
+#: ../lukani/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Инсталиране и активиране на приставка %1$s (%2$d/%3$d)"
+
+#: ../lukani/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесът на инсталиране започва. Този процес може да отнеме известно време "
+"на някои домакини, така че, моля, бъдете търпеливи."
+
+#: ../lukani/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s инсталиран успешно."
+
+#: ../lukani/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Всички инсталации са завършени."
+
+#: ../lukani/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Инсталиране на приставка %1$s (%2$d/%3$d)"
+
+#: ../lukani/comments.php:31 ../lukani/functions.php:1257
+msgid "1 comment"
+msgstr "1 коментар"
+
+#: ../lukani/comments.php:51 ../twentyfifteen/comments.php:71
+#: ../twentynineteen/comments.php:116 ../twentyseventeen/comments.php:82
+#: ../twentysixteen/comments.php:71
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: ../lukani/content-audio.php:29 ../lukani/content.php:30
+msgid "By:"
+msgstr "От:"
+
+#: ../lukani/content-audio.php:34 ../lukani/content.php:35
+msgid "Date:"
+msgstr "Дата:"
+
+#: ../lukani/content-audio.php:45 ../lukani/content-audio.php:108
+#: ../lukani/content-gallery.php:44 ../lukani/content-gallery.php:105
+#: ../lukani/content-image.php:45 ../lukani/content-image.php:107
+#: ../lukani/content-video.php:43 ../lukani/content-video.php:106
+#: ../lukani/content.php:46 ../lukani/content.php:108
+#: ../lukani/woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../lukani/content-audio.php:86 ../lukani/content-gallery.php:83
+#: ../lukani/content-image.php:85 ../lukani/content-video.php:84
+#: ../lukani/content.php:86
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продължи да четеш <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../lukani/content-audio.php:87 ../lukani/content-audio.php:124
+#: ../lukani/content-gallery.php:84 ../lukani/content-gallery.php:120
+#: ../lukani/content-image.php:86 ../lukani/content-image.php:122
+#: ../lukani/content-page.php:20 ../lukani/content-video.php:85
+#: ../lukani/content-video.php:121 ../lukani/content.php:87
+#: ../lukani/content.php:123 ../lukani/image.php:125
+#: ../twentyfifteen/content-link.php:39 ../twentyfifteen/content-page.php:26
+#: ../twentyfifteen/content.php:41 ../twentyfifteen/image.php:61
+#: ../twentynineteen/image.php:52
+#: ../twentynineteen/template-parts/content/content-page.php:27
+#: ../twentynineteen/template-parts/content/content-single.php:40
+#: ../twentynineteen/template-parts/content/content.php:49
+#: ../twentyseventeen/template-parts/page/content-page.php:26
+#: ../twentyseventeen/template-parts/post/content-audio.php:91
+#: ../twentyseventeen/template-parts/post/content-gallery.php:78
+#: ../twentyseventeen/template-parts/post/content-image.php:68
+#: ../twentyseventeen/template-parts/post/content-video.php:90
+#: ../twentyseventeen/template-parts/post/content.php:64
+#: ../twentysixteen/image.php:58
+#: ../twentysixteen/template-parts/content-page.php:24
+#: ../twentysixteen/template-parts/content-single.php:26
+#: ../twentysixteen/template-parts/content.php:36
+msgid "Pages:"
+msgstr "Страници:"
+
+#: ../lukani/content-audio.php:92 ../lukani/content-gallery.php:28
+#: ../lukani/content-gallery.php:89 ../lukani/content-image.php:29
+#: ../lukani/content-image.php:91 ../lukani/content-video.php:27
+#: ../lukani/content-video.php:90 ../lukani/content.php:92
+#: ../lukani/include/shortcodes.php:380
+msgid "By"
+msgstr "От"
+
+#: ../lukani/content-audio.php:97 ../lukani/content-gallery.php:33
+#: ../lukani/content-gallery.php:94 ../lukani/content-image.php:34
+#: ../lukani/content-image.php:96 ../lukani/content-video.php:32
+#: ../lukani/content-video.php:95 ../lukani/content.php:97
+#: ../lukani/woocommerce/myaccount/my-orders.php:41
+#: ../lukani/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr "Дата"
+
+#: ../lukani/content-audio.php:119 ../lukani/content-gallery.php:115
+#: ../lukani/content-image.php:117 ../lukani/content-video.php:116
+#: ../lukani/content.php:118
+#: ../twentynineteen/template-parts/content/content-single.php:27
+#: ../twentynineteen/template-parts/content/content.php:36
+#: ../twentyseventeen/functions.php:390
+#: ../twentyseventeen/template-parts/page/content-front-page-panels.php:45
+#: ../twentyseventeen/template-parts/page/content-front-page.php:42
+#: ../twentyseventeen/template-parts/post/content-audio.php:84
+#: ../twentyseventeen/template-parts/post/content-gallery.php:71
+#: ../twentyseventeen/template-parts/post/content-image.php:61
+#: ../twentyseventeen/template-parts/post/content-video.php:83
+#: ../twentyseventeen/template-parts/post/content.php:57
+#: ../twentysixteen/inc/template-tags.php:194
+#: ../twentysixteen/template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продължи да четеш <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: ../lukani/content-audio.php:140 ../lukani/content-gallery.php:136
+#: ../lukani/content-image.php:138 ../lukani/content-video.php:137
+#: ../lukani/content.php:139 ../twentynineteen/inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Етикети:"
+
+#: ../lukani/content-audio.php:145 ../lukani/content-gallery.php:141
+#: ../lukani/content-image.php:143 ../lukani/content-video.php:142
+#: ../lukani/content.php:144
+msgid "There are no tags in this post !"
+msgstr "В тази публикация няма етикети!"
+
+#: ../lukani/content-audio.php:162 ../lukani/content-gallery.php:158
+#: ../lukani/content-image.php:160 ../lukani/content-video.php:159
+#: ../lukani/content.php:161
+msgid "About the Author:"
+msgstr "За автора:"
+
+#: ../lukani/content-none.php:13 ../lukani/index.php:119
+#: ../lukani/search.php:87 ../twentyfifteen/content-none.php:15
+#: ../twentynineteen/template-parts/content/content-none.php:16
+#: ../twentyseventeen/search.php:21
+#: ../twentyseventeen/template-parts/post/content-none.php:17
+#: ../twentysixteen/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Нищо не е намерено"
+
+#: ../lukani/content-none.php:17 ../lukani/index.php:123
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Извинения, но не бяха намерени резултати. Може би търсенето ще помогне да се "
+"намери свързана публикация."
+
+#: ../lukani/footer.php:42
+msgid "Copyright"
+msgstr "Авторско право"
+
+#: ../lukani/footer.php:42
+msgid "All Rights Reserved"
+msgstr "Всички права запазени"
+
+#: ../lukani/functions.php:245 ../lukani/functions.php:791
+#: ../lukani/functions.php:797 ../lukani/functions.php:801
+msgid "Search..."
+msgstr "Търсене..."
+
+#: ../lukani/functions.php:264 ../lukani/functions.php:775
+#: ../lukani/functions.php:781 ../lukani/functions.php:785
+msgid "Search product..."
+msgstr "Търсене на продукт ..."
+
+#: ../lukani/functions.php:421 ../twentyfifteen/functions.php:86
+#: ../twentysixteen/functions.php:92 ../twentysixteen/header.php:54
+msgid "Primary Menu"
+msgstr "Основно меню"
+
+#: ../lukani/functions.php:422
+msgid "Mobile Menu"
+msgstr "Мобилно меню"
+
+#: ../lukani/functions.php:423 ../lukani/include/map_shortcodes.php:176
+#: ../lukani/theme-config.php:490
+msgid "Categories Menu"
+msgstr "Меню Категории"
+
+#: ../lukani/functions.php:484 ../lukani/include/shortcodes.php:226
+#: ../lukani/include/wooajax.php:29
+#: ../lukani/woocommerce/single-product/product-image-magnifier.php:40
+msgid "image"
+msgstr "изображение"
+
+#: ../lukani/functions.php:880 ../twentyseventeen/functions.php:336
+#: ../twentyseventeen/sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "Странична лента на блога"
+
+#: ../lukani/functions.php:882
+msgid "Sidebar on blog page"
+msgstr "Странична лента на страницата на блога"
+
+#: ../lukani/functions.php:890
+msgid "Shop Sidebar"
+msgstr "Странична лента на блога"
+
+#: ../lukani/functions.php:892
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+"Странична лента на страницата на магазина (само оформление на страничната "
+"лента на магазина)"
+
+#: ../lukani/functions.php:900
+msgid "Pages Sidebar"
+msgstr "Странична лента на страниците"
+
+#: ../lukani/functions.php:902
+msgid "Sidebar on content pages"
+msgstr "Странична лента на страници със съдържание"
+
+#: ../lukani/functions.php:980 ../lukani/functions.php:1030
+msgid "Home"
+msgstr "Начална страница"
+
+#: ../lukani/functions.php:1016 ../lukani/functions.php:1017
+#: ../lukani/functions.php:1018
+#, php-format
+msgid "Archive for: %s"
+msgstr "Архив за: %s"
+
+#: ../lukani/functions.php:1017 ../twentynineteen/inc/template-functions.php:82
+msgid "F Y"
+msgstr ""
+
+#: ../lukani/functions.php:1018 ../twentynineteen/inc/template-functions.php:80
+msgid "Y"
+msgstr ""
+
+#: ../lukani/functions.php:1019
+msgid "Archive for"
+msgstr "Архив за"
+
+#: ../lukani/functions.php:1020
+msgid "Blog Archives"
+msgstr "Архиви на Блога"
+
+#: ../lukani/functions.php:1021
+msgid "Search Results"
+msgstr "Резултати от търсенето"
+
+#: ../lukani/functions.php:1036 ../lukani/image.php:51 ../lukani/index.php:72
+#: ../lukani/search.php:54 ../lukani/tag.php:60 ../lukani/theme-config.php:996
+msgid "Blog"
+msgstr "Блог"
+
+#: ../lukani/functions.php:1105 ../lukani/functions.php:1118
+#: ../twentyfifteen/functions.php:295 ../twentyfifteen/functions.php:303
+#: ../twentyfifteen/functions.php:311 ../twentyseventeen/functions.php:289
+#: ../twentysixteen/functions.php:317 ../twentysixteen/functions.php:322
+#: ../twentysixteen/functions.php:327
+msgid "on"
+msgstr "на"
+
+#: ../lukani/functions.php:1147
+msgid "Post navigation"
+msgstr "След навигация"
+
+#: ../lukani/functions.php:1148
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Стари публикации"
+
+#: ../lukani/functions.php:1149
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нови публикации"
+
+#: ../lukani/functions.php:1166 ../twentyfifteen/single.php:38
+#: ../twentynineteen/comments.php:95 ../twentyseventeen/comments.php:71
+#: ../twentyseventeen/single.php:33 ../twentysixteen/single.php:41
+msgid "Previous"
+msgstr "Предишен"
+
+#: ../lukani/functions.php:1167 ../twentyfifteen/single.php:35
+#: ../twentynineteen/comments.php:96 ../twentyseventeen/comments.php:72
+#: ../twentyseventeen/single.php:34 ../twentysixteen/single.php:38
+msgid "Next"
+msgstr "Следващ"
+
+#: ../lukani/functions.php:1191
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../lukani/functions.php:1191
+msgid "(Edit)"
+msgstr "(Редактиране)"
+
+#: ../lukani/functions.php:1210
+msgid "Post author"
+msgstr "Автор на публикацията"
+
+#: ../lukani/functions.php:1214
+#: ../twentynineteen/classes/class-twentynineteen-walker-comment.php:86
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../lukani/functions.php:1218 ../twentyseventeen/comments.php:62
+msgid "Reply"
+msgstr "Отговор"
+
+#: ../lukani/functions.php:1222
+#: ../twentynineteen/classes/class-twentynineteen-walker-comment.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "Вашият коментар очаква модерация."
+
+#: ../lukani/functions.php:1227 ../lukani/image.php:152
+#: ../twentyfifteen/content-link.php:60 ../twentyfifteen/content-page.php:37
+#: ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:61
+#: ../twentyfifteen/image.php:74
+#: ../twentynineteen/classes/class-twentynineteen-walker-comment.php:94
+msgid "Edit"
+msgstr "Редактиране"
+
+#: ../lukani/functions.php:1253
+msgid "0 comments"
+msgstr "0 коментара"
+
+#: ../lukani/functions.php:1255 ../lukani/functions.php:1306
+msgid " comments"
+msgstr "коментари"
+
+#: ../lukani/functions.php:1264 ../lukani/functions.php:1268
+#, php-format
+msgid "<label>Tags:</label> %2$s"
+msgstr "<label>Етикети:</label> %2$s"
+
+#: ../lukani/functions.php:1266
+#, php-format
+msgid "%1$s / <label>Tags:</label> %2$s"
+msgstr "%1$s / <label>Етикети:</label> %2$s"
+
+#: ../lukani/functions.php:1270 ../lukani/functions.php:1313
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../lukani/functions.php:1282 ../twentyfifteen/author-bio.php:34
+#: ../twentysixteen/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr "Виж всички постове от %s"
+
+#: ../lukani/functions.php:1286
+#, php-format
+msgid "Posted by %1$s  %2$s"
+msgstr "Публикувано от"
+
+#: ../lukani/functions.php:1304
+msgid "<span>0</span> comments"
+msgstr "<span>0</span> коментари"
+
+#: ../lukani/functions.php:1308
+msgid "<span>1</span> comment"
+msgstr "<span>1</span> коментари"
+
+#: ../lukani/functions.php:1324
+msgid "Roadthemes Helper"
+msgstr "Roadthemes Помощник"
+
+#: ../lukani/functions.php:1334
+msgid "Mega Main Menu"
+msgstr "Мега главно меню"
+
+#: ../lukani/functions.php:1341
+msgid "Revolution Slider"
+msgstr "Революционен плъзгач"
+
+#: ../lukani/functions.php:1355
+msgid "Visual Composer"
+msgstr "Визуален композитор"
+
+#: ../lukani/functions.php:1362
+msgid "Templatera"
+msgstr ""
+
+#: ../lukani/functions.php:1372
+msgid "Redux Framework"
+msgstr ""
+
+#: ../lukani/functions.php:1379
+msgid "Contact Form 7"
+msgstr "Формуляр за контакт 7"
+
+#: ../lukani/functions.php:1384
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../lukani/functions.php:1389 ../lukani/include/map_shortcodes.php:384
+#: ../lukani/theme-config.php:1081
+msgid "Testimonials"
+msgstr "Отзиви"
+
+#: ../lukani/functions.php:1394
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../lukani/functions.php:1399
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../lukani/functions.php:1404
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../lukani/functions.php:1410
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../lukani/functions.php:1415
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../lukani/functions.php:1420
+msgid "WooCommerce"
+msgstr ""
+
+#: ../lukani/functions.php:1425
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Сравнение"
+
+#: ../lukani/functions.php:1430
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../lukani/functions.php:1435
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../lukani/functions.php:1473
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Всички приставки са инсталирани и активирани успешно. %с"
+
+#: ../lukani/image.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Публикуван </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> на <a href=\"%3$s\" title=\"Link to full-size image\">%4$s "
+"&times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery"
+"\">%8$s</a>"
+
+#: ../lukani/image.php:162
+msgid "&larr; Previous"
+msgstr "&larr; Предишен"
+
+#: ../lukani/image.php:163
+msgid "Next &rarr;"
+msgstr "Следващия &rarr;"
+
+#: ../lukani/include/map_shortcodes.php:7
+msgid "Yes"
+msgstr "Да"
+
+#: ../lukani/include/map_shortcodes.php:8
+msgid "No"
+msgstr "Не"
+
+#: ../lukani/include/map_shortcodes.php:13
+msgid "Fade"
+msgstr "Избледнете"
+
+#: ../lukani/include/map_shortcodes.php:14
+msgid "Slide"
+msgstr "Слайд"
+
+#: ../lukani/include/map_shortcodes.php:20
+msgid "Enable slider"
+msgstr "Активиране на плъзгача"
+
+#: ../lukani/include/map_shortcodes.php:24
+#: ../lukani/include/map_shortcodes.php:30
+#: ../lukani/include/map_shortcodes.php:37
+#: ../lukani/include/map_shortcodes.php:44
+#: ../lukani/include/map_shortcodes.php:51
+#: ../lukani/include/map_shortcodes.php:58
+#: ../lukani/include/map_shortcodes.php:67
+#: ../lukani/include/map_shortcodes.php:75
+#: ../lukani/include/map_shortcodes.php:83
+#: ../lukani/include/map_shortcodes.php:90
+#: ../lukani/include/map_shortcodes.php:97
+#: ../lukani/include/map_shortcodes.php:105
+msgid "Slider Options"
+msgstr "Опции за плъзгача"
+
+#: ../lukani/include/map_shortcodes.php:28
+msgid "Items Default"
+msgstr "Елементи по подразбиране"
+
+#: ../lukani/include/map_shortcodes.php:35
+msgid "Item Desktop"
+msgstr "Предмет на работния плот"
+
+#: ../lukani/include/map_shortcodes.php:42
+msgid "Item Small"
+msgstr "Елемент малък"
+
+#: ../lukani/include/map_shortcodes.php:49
+msgid "Item Tablet"
+msgstr "Елемент Таблет"
+
+#: ../lukani/include/map_shortcodes.php:56
+msgid "Item Mobile"
+msgstr "Елемент Мобилно"
+
+#: ../lukani/include/map_shortcodes.php:63
+msgid "Navigation"
+msgstr "Навигация"
+
+#: ../lukani/include/map_shortcodes.php:71
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: ../lukani/include/map_shortcodes.php:79
+msgid "Speed sider"
+msgstr "Скорост"
+
+#: ../lukani/include/map_shortcodes.php:87
+msgid "Slider Auto"
+msgstr "Автоматичен слайдър"
+
+#: ../lukani/include/map_shortcodes.php:94
+msgid "Slider loop"
+msgstr "Повтарящ се слайдър"
+
+#: ../lukani/include/map_shortcodes.php:101
+msgid "Effects"
+msgstr "Ефекти"
+
+#: ../lukani/include/map_shortcodes.php:116
+msgid "Logo"
+msgstr "Лого"
+
+#: ../lukani/include/map_shortcodes.php:119
+#: ../lukani/include/map_shortcodes.php:145
+#: ../lukani/include/map_shortcodes.php:170
+#: ../lukani/include/map_shortcodes.php:179
+#: ../lukani/include/map_shortcodes.php:190
+#: ../lukani/include/map_shortcodes.php:200
+#: ../lukani/include/map_shortcodes.php:210
+#: ../lukani/include/map_shortcodes.php:245
+#: ../lukani/include/map_shortcodes.php:279
+#: ../lukani/include/map_shortcodes.php:298
+#: ../lukani/include/map_shortcodes.php:339
+#: ../lukani/include/map_shortcodes.php:387
+#: ../lukani/include/map_shortcodes.php:457
+#: ../lukani/include/map_shortcodes.php:475
+#: ../lukani/include/map_shortcodes.php:501
+#: ../lukani/include/map_shortcodes.php:769
+msgid "Theme"
+msgstr "Тема"
+
+#: ../lukani/include/map_shortcodes.php:125
+msgid "Upload logo image"
+msgstr "Качете изображение на лого"
+
+#: ../lukani/include/map_shortcodes.php:133
+msgid "Width of logo"
+msgstr "Ширина на логото"
+
+#: ../lukani/include/map_shortcodes.php:142
+msgid "Main Menu"
+msgstr "Главно меню"
+
+#: ../lukani/include/map_shortcodes.php:151
+msgid "Upload sticky logo image"
+msgstr "Качете лепкаво изображение на лого"
+
+#: ../lukani/include/map_shortcodes.php:159
+msgid "Width of logo sticky"
+msgstr "Широчина на лепкаво лого"
+
+#: ../lukani/include/map_shortcodes.php:167
+msgid "Main Menu Mobile"
+msgstr "Главно меню мобилно"
+
+#: ../lukani/include/map_shortcodes.php:187
+msgid "Mini Cart"
+msgstr "Малка количка"
+
+#: ../lukani/include/map_shortcodes.php:197
+msgid "Product Search"
+msgstr "Търсене на продукти"
+
+#: ../lukani/include/map_shortcodes.php:207 ../lukani/theme-config.php:759
+msgid "Brand Logos"
+msgstr "Лого на марките"
+
+#: ../lukani/include/map_shortcodes.php:217
+#: ../lukani/include/map_shortcodes.php:252
+#: ../lukani/include/map_shortcodes.php:362
+msgid "Number of columns"
+msgstr "Брой колони"
+
+#: ../lukani/include/map_shortcodes.php:219
+#: ../lukani/include/map_shortcodes.php:254
+msgid "6"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:225
+#: ../lukani/include/map_shortcodes.php:260
+#: ../lukani/include/map_shortcodes.php:370
+msgid "Number of rows"
+msgstr "Брой на редове"
+
+#: ../lukani/include/map_shortcodes.php:242
+msgid "Categories Carousel"
+msgstr "Каросел на категориите"
+
+#: ../lukani/include/map_shortcodes.php:276
+msgid "Newsletter Form (MailPoet)"
+msgstr "Формуляр за бюлетин (MailPoet)"
+
+#: ../lukani/include/map_shortcodes.php:285
+msgid "Form ID"
+msgstr "Идент. № на формуляра"
+
+#: ../lukani/include/map_shortcodes.php:288
+msgid "Enter form ID here"
+msgstr "Въведете идентификатор на формуляра тук"
+
+#: ../lukani/include/map_shortcodes.php:295
+msgid "Time Sale"
+msgstr "Време за разпродажба"
+
+#: ../lukani/include/map_shortcodes.php:304
+msgid "Date Sale"
+msgstr "Дана на Разпродажбаб"
+
+#: ../lukani/include/map_shortcodes.php:305
+msgid "Date Sale M-D-Y. example: 06-16-2030"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:311
+msgid "The image"
+msgstr "Изображението"
+
+#: ../lukani/include/map_shortcodes.php:314
+msgid "Enter description."
+msgstr "Въведете описание"
+
+#: ../lukani/include/map_shortcodes.php:320
+msgid "Short description"
+msgstr "Кратко описание"
+
+#: ../lukani/include/map_shortcodes.php:327
+msgid "URL"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:328
+msgid "Link go to sale page"
+msgstr "Линк към страницата за разпродажба"
+
+#: ../lukani/include/map_shortcodes.php:336
+msgid "Latest posts"
+msgstr "Последни публикации"
+
+#: ../lukani/include/map_shortcodes.php:345
+msgid "Number of posts"
+msgstr "Брой на публикации"
+
+#: ../lukani/include/map_shortcodes.php:347
+msgid "5"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:354
+msgid "Excerpt length"
+msgstr "Дължина на откъса"
+
+#: ../lukani/include/map_shortcodes.php:356
+msgid "20"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:364
+msgid "4"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:393
+msgid "Number of testimonial"
+msgstr "Брой препоръки"
+
+#: ../lukani/include/map_shortcodes.php:395
+msgid "10"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:401
+msgid "Display Author"
+msgstr "Показване на автора"
+
+#: ../lukani/include/map_shortcodes.php:412
+msgid "Display Avatar"
+msgstr "Показване на аватара"
+
+#: ../lukani/include/map_shortcodes.php:423
+msgid "Avatar image size"
+msgstr "Размер снимка на аватара"
+
+#: ../lukani/include/map_shortcodes.php:426
+msgid "Avatar image size in pixels. Default is 50"
+msgstr "Размер на изображението на аватар в пиксели. По подразбиране е 50"
+
+#: ../lukani/include/map_shortcodes.php:432
+msgid "Display URL"
+msgstr "Изобразен URL"
+
+#: ../lukani/include/map_shortcodes.php:443
+#: ../lukani/include/shortcodes.php:107
+msgid "Category"
+msgstr "Категория"
+
+#: ../lukani/include/map_shortcodes.php:445
+msgid "0"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:446
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:454
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:463
+msgid "Twitter user name"
+msgstr "Туитър име"
+
+#: ../lukani/include/map_shortcodes.php:472
+msgid "Twitter feed"
+msgstr "Twitter емисия"
+
+#: ../lukani/include/map_shortcodes.php:481
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr "Вашето име в Twitter (без символа „@“)"
+
+#: ../lukani/include/map_shortcodes.php:489
+msgid "Number Of Tweets"
+msgstr "Брой туитове"
+
+#: ../lukani/include/map_shortcodes.php:498
+msgid "Google map"
+msgstr "Гугъл карта"
+
+#: ../lukani/include/map_shortcodes.php:507
+msgid "Map Height"
+msgstr "Височина на крата"
+
+#: ../lukani/include/map_shortcodes.php:509
+msgid "400"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:510
+msgid "Map height in pixels. Default is 400"
+msgstr "Височина на картата в пиксели. По подразбиране е 400"
+
+#: ../lukani/include/map_shortcodes.php:516
+msgid "Map Zoom"
+msgstr "Мащабиране на картата"
+
+#: ../lukani/include/map_shortcodes.php:518
+msgid "17"
+msgstr ""
+
+#: ../lukani/include/map_shortcodes.php:519
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr "Ниво на увеличение на картата, мин. 0, макс. 21. По подразбиране е 17"
+
+#: ../lukani/include/map_shortcodes.php:525
+#: ../lukani/include/map_shortcodes.php:573
+#: ../lukani/include/map_shortcodes.php:621
+#: ../lukani/include/map_shortcodes.php:669
+#: ../lukani/include/map_shortcodes.php:717
+msgid "Latitude"
+msgstr "Географска ширина"
+
+#: ../lukani/include/map_shortcodes.php:534
+#: ../lukani/include/map_shortcodes.php:582
+#: ../lukani/include/map_shortcodes.php:630
+#: ../lukani/include/map_shortcodes.php:678
+#: ../lukani/include/map_shortcodes.php:726
+msgid "Longtitude"
+msgstr "Географска дължина"
+
+#: ../lukani/include/map_shortcodes.php:543
+#: ../lukani/include/map_shortcodes.php:591
+#: ../lukani/include/map_shortcodes.php:639
+#: ../lukani/include/map_shortcodes.php:687
+#: ../lukani/include/map_shortcodes.php:735
+msgid "Address"
+msgstr "Адрес"
+
+#: ../lukani/include/map_shortcodes.php:546
+#: ../lukani/include/map_shortcodes.php:594
+#: ../lukani/include/map_shortcodes.php:642
+#: ../lukani/include/map_shortcodes.php:690
+#: ../lukani/include/map_shortcodes.php:738
+msgid "If you donot enter coordinate, enter address here"
+msgstr "Ако не въведете координати, въведете адрес тук"
+
+#: ../lukani/include/map_shortcodes.php:553
+#: ../lukani/include/map_shortcodes.php:601
+#: ../lukani/include/map_shortcodes.php:649
+#: ../lukani/include/map_shortcodes.php:697
+#: ../lukani/include/map_shortcodes.php:745
+msgid "Marker image"
+msgstr "Изображение на маркер"
+
+#: ../lukani/include/map_shortcodes.php:556
+msgid "Upload marker image, image size: 40x46 px"
+msgstr "Качете изображение на маркер, размер на изображението: 40x46 px"
+
+#: ../lukani/include/map_shortcodes.php:563
+#: ../lukani/include/map_shortcodes.php:611
+#: ../lukani/include/map_shortcodes.php:659
+#: ../lukani/include/map_shortcodes.php:707
+#: ../lukani/include/map_shortcodes.php:755 ../lukani/theme-config.php:770
+msgid "Description"
+msgstr "Описание"
+
+#: ../lukani/include/map_shortcodes.php:566
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr "Разрешени HTML тагове: a, i, em, br, strong, h1, h2, h3"
+
+#: ../lukani/include/map_shortcodes.php:604
+#: ../lukani/include/map_shortcodes.php:652
+#: ../lukani/include/map_shortcodes.php:700
+#: ../lukani/include/map_shortcodes.php:748
+msgid "Upload marker image"
+msgstr "Качете изображение на маркер"
+
+#: ../lukani/include/map_shortcodes.php:614
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr "Разрешени HTML тагове: a, i, em, br, strong, p, h2, h2, h3"
+
+#: ../lukani/include/map_shortcodes.php:662
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr "Разрешени HTML тагове: a, i, em, br, strong, p, h3, h3, h3"
+
+#: ../lukani/include/map_shortcodes.php:710
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr "Разрешени HTML тагове: a, i, em, br, strong, p, h4, h4, h4"
+
+#: ../lukani/include/map_shortcodes.php:758
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr "Разрешени HTML тагове: a, i, em, br, strong, p, h5, h5, h5"
+
+#: ../lukani/include/map_shortcodes.php:766
+msgid "Counter"
+msgstr "Брояч"
+
+#: ../lukani/include/map_shortcodes.php:775
+msgid "Image icon"
+msgstr "Икона на Изображението"
+
+#: ../lukani/include/map_shortcodes.php:778
+msgid "Upload icon image"
+msgstr "Качване на изображение на икона"
+
+#: ../lukani/include/map_shortcodes.php:784
+msgid "Number"
+msgstr "Число"
+
+#: ../lukani/include/map_shortcodes.php:792
+msgid "Text"
+msgstr "Текст"
+
+#: ../lukani/include/shortcodes.php:111
+msgid "More Categories"
+msgstr "Повече категории"
+
+#: ../lukani/include/shortcodes.php:112
+msgid "Close Menu"
+msgstr "Затворете менюто"
+
+#: ../lukani/include/shortcodes.php:153
+msgid "All Categories"
+msgstr "Всички категории"
+
+#: ../lukani/include/shortcodes.php:307
+msgid "shopping now"
+msgstr "пазаруване сега"
+
+#: ../lukani/include/shortcodes.php:394
+msgid "Continue Reading"
+msgstr "Продължете четенето"
+
+#: ../lukani/include/wooajax.php:116
+#: ../lukani/woocommerce/cart/mini-cart.php:31
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../lukani/include/wooajax.php:134
+msgid "Product is added to cart"
+msgstr "Продуктът е добавен в кошницата"
+
+#: ../lukani/include/wooajax.php:155
+msgid "View Cart"
+msgstr "Вижте кошницата"
+
+#: ../lukani/index.php:108
+msgid "No posts to display"
+msgstr "Няма публикации за показване"
+
+#: ../lukani/index.php:112
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Готови ли сте да публикувате първата си публикация? <a href=\"%s\"> "
+"Започнете тук </a>."
+
+#: ../lukani/projects/archive-project.php:25
+#: ../lukani/projects/content-single-project.php:24
+msgid "Portfolio"
+msgstr "Портфолие"
+
+#: ../lukani/projects/archive-project.php:80
+msgid "All"
+msgstr "Всички"
+
+#: ../lukani/road_importdata/importer.php:216
+msgid "Invalid URL Provided."
+msgstr "Невалиден предоставен URL."
+
+#: ../lukani/road_importdata/importer.php:222
+msgid "Could not create Temporary file."
+msgstr "Не можа да се създаде временен файл."
+
+#: ../lukani/road_importdata/importer.php:351
+#: ../lukani/road_importdata/importer.php:399
+#: ../lukani/road_importdata/importer.php:403
+#: ../lukani/road_importdata/importer.php:412
+msgid "Sorry, there has been an error."
+msgstr "За съжаление възникна грешка."
+
+#: ../lukani/road_importdata/importer.php:404
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Файлът за експортиране не можа да бъде намерен на <code>% s </code>. "
+"Вероятно това е причинено от проблем с разрешенията."
+
+#: ../lukani/road_importdata/importer.php:420
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Този WXR файл (версия% s) може да не се поддържа от тази версия на "
+"вносителя. Моля, помислете за актуализиране."
+
+#: ../lukani/road_importdata/importer.php:470
+msgid "Assign Authors"
+msgstr "Възлагане на автори"
+
+#: ../lukani/road_importdata/importer.php:471
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"За да улесните редактирането и запазването на импортираното съдържание, може "
+"да искате да преназначите автора на импортирания елемент на съществуващ "
+"потребител на този сайт. Например може да искате да импортирате всички "
+"записи като <code> admin </code>."
+
+#: ../lukani/road_importdata/importer.php:473
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Ако нов потребител бъде създаден от WordPress, нова парола ще бъде "
+"генерирана на случаен принцип и ролята на новия потребител ще бъде зададена "
+"като% s. Ще са необходими ръчна промяна на детайлите на новия потребител."
+
+#: ../lukani/road_importdata/importer.php:483
+msgid "Import Attachments"
+msgstr "Импортиране на прикачени файлове"
+
+#: ../lukani/road_importdata/importer.php:486
+msgid "Download and import file attachments"
+msgstr "Изтеглете и импортирайте прикачени файлове"
+
+#: ../lukani/road_importdata/importer.php:490
+msgid "Submit"
+msgstr "Изпращане"
+
+#: ../lukani/road_importdata/importer.php:503
+msgid "Import author:"
+msgstr "Автор на импорта:"
+
+#: ../lukani/road_importdata/importer.php:514
+msgid "or create new user with login name:"
+msgstr "или създайте нов потребител с име за вход:"
+
+#: ../lukani/road_importdata/importer.php:517
+msgid "as a new user:"
+msgstr "като нов потребител:"
+
+#: ../lukani/road_importdata/importer.php:525
+msgid "assign posts to an existing user:"
+msgstr "присвояване на публикации на съществуващ потребител:"
+
+#: ../lukani/road_importdata/importer.php:527
+msgid "or assign posts to an existing user:"
+msgstr "или да присвоите публикации на съществуващ потребител:"
+
+#: ../lukani/road_importdata/importer.php:528
+msgid "- Select -"
+msgstr "- Изберете -"
+
+#: ../lukani/road_importdata/importer.php:578
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Създаването на нов потребител за %s не бе успешно. Техните публикации ще "
+"бъдат приписани на текущия потребител."
+
+#: ../lukani/road_importdata/importer.php:1077
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Елементът от менюто е пропуснат поради невалиден плъзгащ се меню: %s"
+
+#: ../lukani/road_importdata/importer.php:1157
+msgid "Fetching attachments is not enabled"
+msgstr "Извличането на прикачени файлове не е активирано"
+
+#: ../lukani/road_importdata/importer.php:1183
+msgid "Invalid file type"
+msgstr "Невалиден тип файл"
+
+#: ../lukani/road_importdata/importer.php:1229
+msgid "Remote server did not respond"
+msgstr "Отдалеченият сървър не отговори"
+
+#: ../lukani/road_importdata/importer.php:1235
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Отдалеченият сървър върна отговор на грешка %1$d %2$s"
+
+#: ../lukani/road_importdata/importer.php:1242
+msgid "Remote file is incorrect size"
+msgstr "Отдалеченият файл е с неправилен размер"
+
+#: ../lukani/road_importdata/importer.php:1247
+msgid "Zero size file downloaded"
+msgstr "Изтеглен файл с нулев размер"
+
+#: ../lukani/road_importdata/importer.php:1253
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Отдалеченият файл е твърде голям, ограничението е %s"
+
+#: ../lukani/road_importdata/importer.php:1353
+msgid "Import WordPress"
+msgstr "Импортиране на WordPress"
+
+#: ../lukani/road_importdata/importer.php:1360
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Налична е нова версия на този вносител. Моля, актуализирайте до версия %s, "
+"за да осигурите съвместимост с по-нови файлове за експортиране."
+
+#: ../lukani/road_importdata/importer.php:1375
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Здрасти! Качете вашия WordPress eXtended RSS (WXR) файл и ние ще импортираме "
+"публикациите, страниците, коментарите, персонализираните полета, категории и "
+"маркери в този сайт."
+
+#: ../lukani/road_importdata/importer.php:1376
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Изберете WXR (.xml) файл за качване, след това щракнете върху Качване на "
+"файл и импортиране."
+
+#: ../lukani/road_importdata/parsers.php:42
+#: ../lukani/road_importdata/parsers.php:78
+#: ../lukani/road_importdata/parsers.php:87
+msgid "There was an error when reading this WXR file"
+msgstr "При четенето на този WXR файл възникна грешка"
+
+#: ../lukani/road_importdata/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробностите са показани по-горе. Сега вносителят ще опита отново с "
+"различен парсер ..."
+
+#: ../lukani/road_importdata/parsers.php:91
+#: ../lukani/road_importdata/parsers.php:96
+#: ../lukani/road_importdata/parsers.php:291
+#: ../lukani/road_importdata/parsers.php:476
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Изглежда, че това не е WXR файл, липсващ / невалиден номер на версията на WXR"
+
+#: ../lukani/search.php:72 ../twentyfifteen/search.php:18
+#: ../twentyseventeen/search.php:19 ../twentysixteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Резултати от търсенето за: %s"
+
+#: ../lukani/search.php:91
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"За съжаление, нищо не отговаря на критериите Ви за търсене. Моля, опитайте "
+"отново с някои различни ключови думи."
+
+#: ../lukani/tag.php:78
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архиви на маркери: %s"
+
+#: ../lukani/theme-config.php:79
+msgid "Section via hook"
+msgstr "Секция чрез кука"
+
+#: ../lukani/theme-config.php:80
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class = \"description\"> Това е раздел, създаден чрез добавяне на филтър "
+"към масива от секции. Може да се използва от дъщерни теми за добавяне / "
+"премахване на раздели от опциите. </p>"
+
+#: ../lukani/theme-config.php:131
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Персонализирайте &#8220;%s&#8221;"
+
+#: ../lukani/theme-config.php:138 ../lukani/theme-config.php:141
+msgid "Current theme preview"
+msgstr "Преглед на текущата тема"
+
+#: ../lukani/theme-config.php:148
+#, php-format
+msgid "By %s"
+msgstr "От %s"
+
+#: ../lukani/theme-config.php:149
+#, php-format
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: ../lukani/theme-config.php:150 ../twentyfifteen/inc/template-tags.php:108
+#: ../twentyseventeen/inc/template-tags.php:89
+#: ../twentysixteen/inc/template-tags.php:112
+msgid "Tags"
+msgstr "Маркери"
+
+#: ../lukani/theme-config.php:155
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+"Тази <a href=\"%1$s\"> дъщерна тема </a> изисква родителската си тема, %2$s."
+
+#: ../lukani/theme-config.php:155
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../lukani/theme-config.php:171
+msgid "General"
+msgstr "Общ"
+
+#: ../lukani/theme-config.php:172
+msgid "General theme options"
+msgstr "Общи опции за тема"
+
+#: ../lukani/theme-config.php:179
+msgid "Body background"
+msgstr "Фон на тялото"
+
+#: ../lukani/theme-config.php:180
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+"Качете изображение или изберете цвят. Работете само с оформление на кутията"
+
+#: ../lukani/theme-config.php:187
+msgid "Wrapper background"
+msgstr "Фон на обвивката"
+
+#: ../lukani/theme-config.php:188
+msgid "Upload image or select color. Background of page wrapper"
+msgstr "Качете изображение или изберете цвят. Фон на обвивката на страницата"
+
+#: ../lukani/theme-config.php:195
+msgid "Page content background"
+msgstr "Фон на съдържанието на страницата"
+
+#: ../lukani/theme-config.php:196
+msgid "Select background for page content (default: #ffffff)."
+msgstr "Изберете фон за съдържанието на страницата (по подразбиране: #ffffff)."
+
+#: ../lukani/theme-config.php:203
+msgid "Border Option"
+msgstr "Опция за рамка"
+
+#: ../lukani/theme-config.php:204
+msgid "Only color validation can be done on this field type"
+msgstr "За този тип поле може да се направи само проверка на цветовете"
+
+#: ../lukani/theme-config.php:210
+msgid "Back To Top"
+msgstr ""
+
+#: ../lukani/theme-config.php:211
+msgid "Show back to top button on all pages"
+msgstr "Показване на бутона за връщане нагоре на всички страници"
+
+#: ../lukani/theme-config.php:218
+msgid "Colors"
+msgstr "Цветове"
+
+#: ../lukani/theme-config.php:219
+msgid "Color options"
+msgstr "Опции за цветове"
+
+#: ../lukani/theme-config.php:225 ../twentynineteen/inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Главен цвят"
+
+#: ../lukani/theme-config.php:226
+msgid "Pick a color for primary color (default: #79a206)."
+msgstr "Изберете цвят за основен цвят (по подразбиране: #79a206)."
+
+#: ../lukani/theme-config.php:235
+msgid "Sale Label BG Color"
+msgstr "Етикет за продажба BG Цвят"
+
+#: ../lukani/theme-config.php:236
+msgid "Pick a color for bg sale label (default: #dc0f0f)."
+msgstr "Изберете цвят за етикет за продажба на bg (по подразбиране: # dc0f0f)."
+
+#: ../lukani/theme-config.php:245
+msgid "Sale Label Text Color"
+msgstr "Цвят на текста на етикета за промоция"
+
+#: ../lukani/theme-config.php:246
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+"Изберете цвят за текст на етикета за промоция (по подразбиране: #ffffff)."
+
+#: ../lukani/theme-config.php:255
+msgid "Rating Star Color"
+msgstr "Цвят на звездите за оценка"
+
+#: ../lukani/theme-config.php:256
+msgid "Pick a color for star of rating (default: #ffb400)."
+msgstr "Изберете цвят за звезда за оценяване (по подразбиране: # ffb400)."
+
+#: ../lukani/theme-config.php:264 ../twentysixteen/inc/customizer.php:200
+msgid "Link Color"
+msgstr "Цвят на линкове"
+
+#: ../lukani/theme-config.php:265
+msgid "Pick a color for link (default: #222222)."
+msgstr "Изберете цвят за линкове (по подразбиране: # 222222)."
+
+#: ../lukani/theme-config.php:276
+msgid "Text selected background"
+msgstr "Фон на избран текст"
+
+#: ../lukani/theme-config.php:277
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr "Изберете фон на избран текст (по подразбиране #91b2c3)."
+
+#: ../lukani/theme-config.php:285
+msgid "Text selected color"
+msgstr "Цвят на избран текст."
+
+#: ../lukani/theme-config.php:286
+msgid "Select color for selected text (default: #ffffff)."
+msgstr "Изберете цвят за избран текст (по подразбиране)."
+
+#: ../lukani/theme-config.php:318
+msgid "Header"
+msgstr "Хедър"
+
+#: ../lukani/theme-config.php:319
+msgid "Header options"
+msgstr "Опции за Хедъра"
+
+#: ../lukani/theme-config.php:326
+msgid "Header Layout"
+msgstr "Оформление на хедъра"
+
+#: ../lukani/theme-config.php:328 ../lukani/theme-config.php:337
+#: ../lukani/theme-config.php:573
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+"Отидете на Visual Composer => Шаблони, за да създадете / редактирате "
+"оформление"
+
+#: ../lukani/theme-config.php:335
+msgid "Header Mobile Layout"
+msgstr "Оформление на мобилния хедър"
+
+#: ../lukani/theme-config.php:345
+msgid "Header background"
+msgstr "Фон на хедър"
+
+#: ../lukani/theme-config.php:346 ../lukani/theme-config.php:427
+#: ../lukani/theme-config.php:582 ../lukani/theme-config.php:1115
+msgid "Upload image or select color."
+msgstr "Качете изображение или изберете цвят."
+
+#: ../lukani/theme-config.php:353
+msgid "Header text color"
+msgstr "Цвят на текста в хедъра"
+
+#: ../lukani/theme-config.php:354
+msgid "Pick a color for top bar text color (default: #222222)."
+msgstr ""
+"Изберете цвят за цвета на текста на горната лента (по подразбиране: # "
+"222222)."
+
+#: ../lukani/theme-config.php:363
+msgid "Header link color"
+msgstr "Цвят на линкове в гедъра"
+
+#: ../lukani/theme-config.php:364
+msgid "Pick a color for header link color (default: #222222)."
+msgstr "Изберете цвят за линкове в хедъра (по подразбиране #222222)."
+
+#: ../lukani/theme-config.php:377
+msgid "Sticky header"
+msgstr "Лепкав хедър."
+
+#: ../lukani/theme-config.php:383
+msgid "Use sticky header"
+msgstr "Използване на лепкав хедър "
+
+#: ../lukani/theme-config.php:389
+msgid "Header sticky background"
+msgstr "Фон на лепкав хедър"
+
+#: ../lukani/theme-config.php:419
+msgid "Top Bar"
+msgstr "Горна лента "
+
+#: ../lukani/theme-config.php:426
+msgid "Top Bar background"
+msgstr "Фон на горна лента"
+
+#: ../lukani/theme-config.php:434
+msgid "Top bar text color"
+msgstr "Цвят на текст в горната лента"
+
+#: ../lukani/theme-config.php:435
+msgid "Pick a color for top bar text color (default: #a9a9a9)."
+msgstr "Изберете цвят за текст в горната лента (по подразбиране: #a9a9a9)."
+
+#: ../lukani/theme-config.php:444
+msgid "Top bar link color"
+msgstr "Цвят на линковете в горната лента"
+
+#: ../lukani/theme-config.php:445
+msgid "Pick a color for top bar link color (default: #222222)."
+msgstr "Изберете цвят за линковете в горната лента (по подразбиране: #222222)"
+
+#: ../lukani/theme-config.php:458
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:17
+#: ../twentysixteen/header.php:50
+msgid "Menu"
+msgstr "Меню"
+
+#: ../lukani/theme-config.php:464
+msgid "Mobile menu label"
+msgstr "Етикет за мобилно меню"
+
+#: ../lukani/theme-config.php:465
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr "Етикетът за мобилно меню (пример: Меню, Отиди на ..."
+
+#: ../lukani/theme-config.php:471
+msgid "Submenu background"
+msgstr "Фон на подменюто"
+
+#: ../lukani/theme-config.php:472
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr "Изберете цвят за подменюто bg (по подразбиране: #ffffff)."
+
+#: ../lukani/theme-config.php:480
+msgid "Submenu color"
+msgstr "Цвят на подменюто"
+
+#: ../lukani/theme-config.php:481
+msgid "Pick a color for sub menu color (default: #363f4d)."
+msgstr "Изберете цвят за цвят на подменюто (по подразбиране: # 363f4d)."
+
+#: ../lukani/theme-config.php:496
+msgid "Categories menu label"
+msgstr "Етикет на менюто Категории"
+
+#: ../lukani/theme-config.php:497
+msgid "The label for categories menu"
+msgstr "Менюто на етикета за категории"
+
+#: ../lukani/theme-config.php:503
+msgid "Number of items"
+msgstr "Брой елементи"
+
+#: ../lukani/theme-config.php:504
+msgid "Number of menu items level 1 to show, default value: 9"
+msgstr ""
+"Брой елементи от менюто ниво 1 за показване, стойност по подразбиране: 9"
+
+#: ../lukani/theme-config.php:514
+msgid "More items label"
+msgstr "Етикет за повече елементи"
+
+#: ../lukani/theme-config.php:515
+msgid "The label for more items button"
+msgstr "Бутон за етикет за повече елементи"
+
+#: ../lukani/theme-config.php:521
+msgid "Less items label"
+msgstr "Етикет за по-малко елементи"
+
+#: ../lukani/theme-config.php:522
+msgid "The label for less items button"
+msgstr "Бутон за етикет за по-малко елементи"
+
+#: ../lukani/theme-config.php:528
+msgid "Home Categories Menu"
+msgstr "Меню за начални категории"
+
+#: ../lukani/theme-config.php:529
+msgid "Always show categories menu on home page"
+msgstr "Винаги показвайте менюто с категории на началната страница"
+
+#: ../lukani/theme-config.php:535
+msgid "Inner Categories Menu"
+msgstr "Меню за вътрешни категории"
+
+#: ../lukani/theme-config.php:536
+msgid "Always show categories menu on inner pages"
+msgstr "Винаги показвайте менюто с категории на вътрешните страници"
+
+#: ../lukani/theme-config.php:563 ../twentynineteen/functions.php:188
+#: ../twentynineteen/template-parts/footer/footer-widgets.php:12
+#: ../twentyseventeen/template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "Футър"
+
+#: ../lukani/theme-config.php:564
+msgid "Footer options"
+msgstr "Опции за Футъра"
+
+#: ../lukani/theme-config.php:571
+msgid "Footer Layout"
+msgstr "Оформление на Футъра"
+
+#: ../lukani/theme-config.php:581
+msgid "Footer background"
+msgstr "Фон на Футъра"
+
+#: ../lukani/theme-config.php:590
+msgid "Footer text color"
+msgstr "Цвят на текста във Футъра"
+
+#: ../lukani/theme-config.php:591
+msgid "Pick a color for top bar text color (default: #747474)."
+msgstr ""
+"Изберете цвят за цвета на текста на горната лента (по подразбиране: # "
+"747474)."
+
+#: ../lukani/theme-config.php:600
+msgid "Footer link color"
+msgstr "Цвят на линка към Футъра"
+
+#: ../lukani/theme-config.php:601
+msgid "Pick a color for footer link color (default: #747474)."
+msgstr ""
+"Изберете цвят за цвета на връзката на футъра (по подразбиране: # 747474)."
+
+#: ../lukani/theme-config.php:614
+msgid "Fonts"
+msgstr "Шрифтове"
+
+#: ../lukani/theme-config.php:615
+msgid "Fonts options"
+msgstr "Опции за шрифтове"
+
+#: ../lukani/theme-config.php:622
+msgid "Body font"
+msgstr "Шрифт на тялото"
+
+#: ../lukani/theme-config.php:630
+msgid "Main body font."
+msgstr "Шрифт на основното тяло."
+
+#: ../lukani/theme-config.php:643
+msgid "Heading font"
+msgstr "Шрифт на заглавието"
+
+#: ../lukani/theme-config.php:652
+msgid "Heading font."
+msgstr "Шрифт на заглавието."
+
+#: ../lukani/theme-config.php:663
+msgid "Menu font"
+msgstr "Шрифт на менюто"
+
+#: ../lukani/theme-config.php:672
+msgid "Menu font."
+msgstr "Шрифт на менюто."
+
+#: ../lukani/theme-config.php:684
+msgid "Price font"
+msgstr "Ценов шрифт"
+
+#: ../lukani/theme-config.php:693
+msgid "Price font."
+msgstr "Ценов шрифт."
+
+#: ../lukani/theme-config.php:707
+msgid "Layout"
+msgstr "Оформление"
+
+#: ../lukani/theme-config.php:708
+msgid "Select page layout: Box or Full Width"
+msgstr "Избор на оформление на страницата: Box или Full Width"
+
+#: ../lukani/theme-config.php:715 ../twentyseventeen/inc/customizer.php:106
+msgid "Page Layout"
+msgstr "Оформление на страница"
+
+#: ../lukani/theme-config.php:725
+msgid "Box layout width"
+msgstr "Ширина на оформлението на кутията"
+
+#: ../lukani/theme-config.php:726
+msgid "Box layout width in pixels, default value: 1770"
+msgstr ""
+"Ширина на оформлението на кутията в пиксели, стойност по подразбиране: 1770"
+
+#: ../lukani/theme-config.php:736
+msgid "Preset"
+msgstr "Предварително зададени"
+
+#: ../lukani/theme-config.php:737
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+"Изберете предварително зададена, за да приложите бързо предварително "
+"дефинирани цветове и шрифтове"
+
+#: ../lukani/theme-config.php:750
+msgid "Show Style Switcher"
+msgstr "Покажи превключвател на стилове"
+
+#: ../lukani/theme-config.php:751
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+"Превключвателят на стилове е само за предварителен преглед на предния край"
+
+#: ../lukani/theme-config.php:760
+msgid "Upload brand logos and links"
+msgstr "Качете лога и връзки на марката"
+
+#: ../lukani/theme-config.php:766
+msgid "Logos"
+msgstr "Логота"
+
+#: ../lukani/theme-config.php:767
+msgid "Upload logo image and enter logo link."
+msgstr "Качете изображение на лого и въведете връзка към лого."
+
+#: ../lukani/theme-config.php:769 ../lukani/theme-config.php:789
+msgid "Title"
+msgstr "Заглавие"
+
+#: ../lukani/theme-config.php:771 ../lukani/theme-config.php:791
+msgid "Link"
+msgstr "Линк"
+
+#: ../lukani/theme-config.php:779
+msgid "Categories carousel"
+msgstr "Каросел на категории"
+
+#: ../lukani/theme-config.php:780
+msgid "Upload category logos and links"
+msgstr "Качете лога и връзки на категории"
+
+#: ../lukani/theme-config.php:786 ../lukani/woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr "Изображения"
+
+#: ../lukani/theme-config.php:787
+msgid "Upload Categories image and enter categories link."
+msgstr ""
+"Качване на изображение на категории и връзка за въвеждане на категории."
+
+#: ../lukani/theme-config.php:790
+msgid "Number products"
+msgstr "Брой продукти"
+
+#: ../lukani/theme-config.php:799 ../twentysixteen/functions.php:265
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: ../lukani/theme-config.php:800
+msgid "Sidebar options"
+msgstr "Опции на страничната лента"
+
+#: ../lukani/theme-config.php:807
+msgid "Shop Sidebar Position"
+msgstr "Пазарувайте позицията на страничната лента"
+
+#: ../lukani/theme-config.php:808
+msgid "Sidebar on shop page"
+msgstr "Странична лента на страницата на магазина"
+
+#: ../lukani/theme-config.php:817
+msgid "Pages Sidebar Position"
+msgstr "Позиция на страничната лента на страниците"
+
+#: ../lukani/theme-config.php:818
+msgid "Sidebar on pages"
+msgstr "Странична лента на страниците"
+
+#: ../lukani/theme-config.php:827
+msgid "Blog Sidebar Position"
+msgstr "Позиция на страничната лента на блога"
+
+#: ../lukani/theme-config.php:828
+msgid "Sidebar on Blog pages"
+msgstr "Странична лента на страниците на блога"
+
+#: ../lukani/theme-config.php:837
+msgid "Custom Sidebars"
+msgstr "Персонализирани странични ленти"
+
+#: ../lukani/theme-config.php:838
+msgid "Add more sidebars"
+msgstr "Добавете още странични ленти"
+
+#: ../lukani/theme-config.php:839
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+"Въведете име на страничната лента (разрешавайте само цифри и букви). "
+"щракнете върху Добави още, за да добавите още странична лента. Редактирайте "
+"страницата си, за да изберете странична лента"
+
+#: ../lukani/theme-config.php:846 ../lukani/woocommerce/cart/cart.php:35
+#: ../lukani/woocommerce/cart/cart.php:68
+#: ../lukani/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr "Продукт"
+
+#: ../lukani/theme-config.php:847
+msgid "Use this section to select options for product"
+msgstr "Използвайте този раздел, за да изберете опции за продукт"
+
+#: ../lukani/theme-config.php:853
+msgid "Shop Layout"
+msgstr "Оформление на магазина"
+
+#: ../lukani/theme-config.php:863
+msgid "Shop default view"
+msgstr "Изглед по подразбиране на магазина"
+
+#: ../lukani/theme-config.php:873
+msgid "Products per page"
+msgstr "Продукти на страница"
+
+#: ../lukani/theme-config.php:874
+msgid "Amount of products per page on category page"
+msgstr "Количество продукти на страница на страница с категории"
+
+#: ../lukani/theme-config.php:884
+msgid "Product columns"
+msgstr "Продуктови колони"
+
+#: ../lukani/theme-config.php:885
+msgid "Amount of product columns on category page"
+msgstr "Количество колони с продукти на страницата с категории"
+
+#: ../lukani/theme-config.php:886 ../lukani/theme-config.php:898
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr "Работи само с: 1, 2, 3, 4, 6"
+
+#: ../lukani/theme-config.php:896
+msgid "Product columns on full width shop"
+msgstr "Продуктови колони в магазин с пълна ширина"
+
+#: ../lukani/theme-config.php:897
+msgid "Amount of product columns on full width category page"
+msgstr "Количество колони на продукта на страницата с категория с пълна ширина"
+
+#: ../lukani/theme-config.php:908
+msgid "Use secondary product image"
+msgstr "Използвайте вторично изображение на продукта"
+
+#: ../lukani/theme-config.php:909
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+"Показвайте вторичното изображение, когато задържите курсора на мишката върху "
+"продукта в списъка"
+
+#: ../lukani/theme-config.php:915 ../lukani/theme-config.php:954
+msgid "Up-Sells title"
+msgstr "Up-Sells заглавие"
+
+#: ../lukani/theme-config.php:921
+msgid "Cross-Sells title"
+msgstr "Заглавие за кръстосани продажби"
+
+#: ../lukani/theme-config.php:931
+msgid "Product page"
+msgstr "Страница на продукта"
+
+#: ../lukani/theme-config.php:938
+msgid "Related products title"
+msgstr "Заглавие на сродни продукти"
+
+#: ../lukani/theme-config.php:944
+msgid "Number of related products"
+msgstr "Брой свързани продукти"
+
+#: ../lukani/theme-config.php:960
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../lukani/theme-config.php:961
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../lukani/theme-config.php:967
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../lukani/theme-config.php:968
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../lukani/theme-config.php:975 ../lukani/theme-config.php:988
+#: ../lukani/woocommerce/content-product-archive.php:130
+#: ../lukani/woocommerce/content-product.php:122
+msgid "Quick View"
+msgstr "Бърз поглед"
+
+#: ../lukani/theme-config.php:981
+msgid "View all features text"
+msgstr "Вижте целия текст на функциите"
+
+#: ../lukani/theme-config.php:982
+msgid "This is the text on quick view box"
+msgstr "Това е текстът в полето за бърз преглед"
+
+#: ../lukani/theme-config.php:989
+msgid "Show quick view button on all pages"
+msgstr "Показване на бутона за бърз преглед на всички страници"
+
+#: ../lukani/theme-config.php:997
+msgid "Use this section to select options for blog"
+msgstr "Използвайте този раздел, за да изберете опции за блог"
+
+#: ../lukani/theme-config.php:1003
+msgid "Blog header text"
+msgstr "Текст на заглавката на блога"
+
+#: ../lukani/theme-config.php:1009
+msgid "Blog Layout"
+msgstr "Оформление на блога"
+
+#: ../lukani/theme-config.php:1020
+msgid "Blog Style"
+msgstr "Блог стил"
+
+#: ../lukani/theme-config.php:1032
+msgid "Width of thumbnail category "
+msgstr "Ширина на категорията на заглавни снимки"
+
+#: ../lukani/theme-config.php:1038
+msgid "Height of thumbnail category "
+msgstr "Височина на категория заглавни снимки"
+
+#: ../lukani/theme-config.php:1044
+msgid "Read more text"
+msgstr "Прочетете повече текст"
+
+#: ../lukani/theme-config.php:1050
+msgid "Excerpt length on blog page"
+msgstr "Дължина на откъса на страницата на блога"
+
+#: ../lukani/theme-config.php:1061
+msgid "Latest posts carousel"
+msgstr "Карусел на последните постове"
+
+#: ../lukani/theme-config.php:1068
+msgid "Width of thumbnail "
+msgstr "Ширина на заглавната снимка"
+
+#: ../lukani/theme-config.php:1074
+msgid "Height of thumbnail "
+msgstr "Височина на заглавната снимка"
+
+#: ../lukani/theme-config.php:1082
+msgid "Use this section to select options for Testimonials"
+msgstr "Използвайте този раздел, за да изберете опции за препоръките"
+
+#: ../lukani/theme-config.php:1088
+msgid "Auto scroll"
+msgstr "Автоматичен скрол"
+
+#: ../lukani/theme-config.php:1094
+msgid "Animate in (seconds)"
+msgstr "Анимиране за (секунди)"
+
+#: ../lukani/theme-config.php:1095
+msgid "Animate time, default value: 2000"
+msgstr "Време за анимация, стойност по подразбиране: 2000"
+
+#: ../lukani/theme-config.php:1106
+msgid "Error 404 Page"
+msgstr "Грешка 404 страница"
+
+#: ../lukani/theme-config.php:1107
+msgid "Error 404 page options"
+msgstr "Опции за грешка 404 страница"
+
+#: ../lukani/theme-config.php:1114
+msgid "Error 404 background"
+msgstr "Грешка 404 фон"
+
+#: ../lukani/theme-config.php:1123
+msgid "Less Compiler"
+msgstr "Less компилатор"
+
+#: ../lukani/theme-config.php:1124
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+"Включете тази опция, за да приложите всички опции за тема. След като "
+"завършите промяната на опциите на темата и вашият сайт е готов."
+
+#: ../lukani/theme-config.php:1130
+msgid "Enable Less Compiler"
+msgstr "Включване на Less компилатор"
+
+#: ../lukani/theme-config.php:1137
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong> URL на темата: </strong>"
+
+#: ../lukani/theme-config.php:1138
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Автор:</strong> "
+
+#: ../lukani/theme-config.php:1139
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Автор:</strong> "
+
+#: ../lukani/theme-config.php:1143
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Тагове:</strong> "
+
+#: ../lukani/theme-config.php:1148
+msgid "Import / Export"
+msgstr ""
+
+#: ../lukani/theme-config.php:1149
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../lukani/theme-config.php:1164
+msgid "Theme Information"
+msgstr "Информация за темата"
+
+#: ../lukani/theme-config.php:1180
+msgid "Theme Information 1"
+msgstr "Информация за темата 1"
+
+#: ../lukani/theme-config.php:1181 ../lukani/theme-config.php:1187
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p> Това е съдържанието на раздела, HTML е разрешен. </p>"
+
+#: ../lukani/theme-config.php:1186
+msgid "Theme Information 2"
+msgstr "Информация за темата 2"
+
+#: ../lukani/theme-config.php:1191
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p> Това е съдържанието на страничната лента, разрешен е HTML. </p>"
+
+#: ../lukani/theme-config.php:1211 ../lukani/theme-config.php:1212
+#: ../twentyseventeen/inc/customizer.php:89
+msgid "Theme Options"
+msgstr "Опции за темата"
+
+#: ../lukani/woocommerce/archive-product.php:113
+msgid "View on"
+msgstr "Вижте на"
+
+#: ../lukani/woocommerce/archive-product.php:114
+msgid "Grid"
+msgstr ""
+
+#: ../lukani/woocommerce/archive-product.php:115
+msgid "List"
+msgstr ""
+
+#: ../lukani/woocommerce/cart/cart.php:36
+#: ../lukani/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr "Цена"
+
+#: ../lukani/woocommerce/cart/cart.php:37
+#: ../lukani/woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr "Количество"
+
+#: ../lukani/woocommerce/cart/cart.php:38
+#: ../lukani/woocommerce/cart/cart.php:109
+#: ../lukani/woocommerce/checkout/review-order.php:18
+#: ../lukani/woocommerce/myaccount/my-orders.php:43
+#: ../lukani/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr "Обща сума"
+
+#: ../lukani/woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr "Изтрий"
+
+#: ../lukani/woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "Предлага се при поръчка"
+
+#: ../lukani/woocommerce/cart/cart.php:121
+#: ../lukani/woocommerce/cart/mini-cart.php:72
+msgid "Remove this item"
+msgstr "Премахнете този елемент"
+
+#: ../lukani/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr "Актуализиране на кошницата"
+
+#: ../lukani/woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr "Купон"
+
+#: ../lukani/woocommerce/cart/cart.php:156
+msgid "Enter your coupon code if you have one."
+msgstr "Въведете кода на купона си, ако имате такъв."
+
+#: ../lukani/woocommerce/cart/cart.php:157
+msgid "Coupon code"
+msgstr "Код на купона"
+
+#: ../lukani/woocommerce/cart/cart.php:157
+msgid "Apply coupon"
+msgstr "Приложете купон"
+
+#: ../lukani/woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+#: ../lukani/woocommerce/cart/mini-cart.php:96
+msgid "No products in the cart."
+msgstr "Няма продукти в количката."
+
+#: ../lukani/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Трябва да сте влезли в системата за плащане."
+
+#: ../lukani/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr "Вашата поръчка"
+
+#: ../lukani/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Постоянен клиент?"
+
+#: ../lukani/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "Натиснете тук, за да влезете"
+
+#: ../lukani/woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+"Ако сте пазарували с нас преди, моля, въведете данните си по-долу. Ако сте "
+"нов клиент, моля, продължете към фактурирането &amp; Раздел за доставка."
+
+#: ../lukani/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr "Междинна сума на количката"
+
+#: ../lukani/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr "Обща стойност на поръчката"
+
+#: ../lukani/woocommerce/loop/orderby.php:26
+msgid "Sort By"
+msgstr "Сортирай по"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr "Скорошни поръчки"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr "Поръчка"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr "Номер на поръчка"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr "%s за %s артикум"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr "Платете"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr "Отказ"
+
+#: ../lukani/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr "Изглед"
+
+#: ../lukani/woocommerce/single-product/meta.php:31
+msgid "SKU: "
+msgstr "Каталожен номер:"
+
+#: ../lukani/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "Неприложимо"
+
+#: ../lukani/woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgstr "Етикет:"
+
+#: ../lukani/woocommerce/single-product/product-image-magnifier.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: ../lukani/woocommerce/single-product/related.php:31
+msgid "Related Products"
+msgstr "Свързани продукти"
+
+#: ../lukani/woocommerce/single-product/stock.php:24
+msgid "Availability: "
+msgstr "Наличност:"
+
+#: ../lukani/woocommerce/single-product/up-sells.php:30
+msgid "Up-Sells Products"
+msgstr "Up-Sells продукти"
+
+#: ../twentyfifteen/404.php:17 ../twentynineteen/404.php:20
+#: ../twentyseventeen/404.php:21 ../twentysixteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ами сега! Тази страница не може да бъде намерена."
+
+#: ../twentyfifteen/404.php:21 ../twentynineteen/404.php:24
+#: ../twentyseventeen/404.php:24 ../twentysixteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Изглежда, че на това място не е намерено нищо. Може би да опитате с "
+"търсачката?"
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/index.php:48
+#: ../twentyfifteen/search.php:41 ../twentyseventeen/archive.php:48
+#: ../twentyseventeen/index.php:52 ../twentyseventeen/search.php:45
+#: ../twentysixteen/archive.php:51 ../twentysixteen/index.php:48
+#: ../twentysixteen/search.php:39
+msgid "Previous page"
+msgstr "Предишна страница"
+
+#: ../twentyfifteen/archive.php:52 ../twentyfifteen/index.php:49
+#: ../twentyfifteen/search.php:42 ../twentyseventeen/archive.php:49
+#: ../twentyseventeen/index.php:53 ../twentyseventeen/search.php:46
+#: ../twentysixteen/archive.php:52 ../twentysixteen/index.php:49
+#: ../twentysixteen/search.php:40
+msgid "Next page"
+msgstr "Следваща страница"
+
+#: ../twentyfifteen/archive.php:53 ../twentyfifteen/content-link.php:43
+#: ../twentyfifteen/content-page.php:30 ../twentyfifteen/content.php:45
+#: ../twentyfifteen/image.php:65 ../twentyfifteen/index.php:50
+#: ../twentyfifteen/search.php:43 ../twentynineteen/image.php:56
+#: ../twentyseventeen/archive.php:50 ../twentyseventeen/index.php:54
+#: ../twentyseventeen/search.php:47 ../twentysixteen/archive.php:53
+#: ../twentysixteen/image.php:62 ../twentysixteen/index.php:50
+#: ../twentysixteen/search.php:41
+#: ../twentysixteen/template-parts/content-page.php:28
+#: ../twentysixteen/template-parts/content-single.php:30
+#: ../twentysixteen/template-parts/content.php:40
+msgid "Page"
+msgstr "Страница"
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr "Публикувано от"
+
+#: ../twentyfifteen/comments.php:31 ../twentysixteen/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Една мисъл за &ldquo;%s&rdquo;"
+
+#: ../twentyfifteen/content-link.php:32 ../twentyfifteen/content.php:34
+#: ../twentyfifteen/inc/template-tags.php:249
+#, php-format
+msgid "Continue reading %s"
+msgstr "Продължете да четете %s"
+
+#: ../twentyfifteen/content-none.php:22
+#: ../twentynineteen/template-parts/content/content-none.php:26
+#: ../twentyseventeen/template-parts/post/content-none.php:24
+#: ../twentysixteen/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готови ли сте да публикувате първата си публикация? <a href=\"%1$s\"> "
+"Започнете тук </a>."
+
+#: ../twentyfifteen/content-none.php:26
+#: ../twentynineteen/template-parts/content/content-none.php:39
+#: ../twentyseventeen/search.php:54
+#: ../twentysixteen/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"За съжаление, но нищо не съвпада с думите ви за търсене. Моля, опитайте "
+"отново с някои различни ключови думи."
+
+#: ../twentyfifteen/content-none.php:31
+#: ../twentynineteen/template-parts/content/content-none.php:46
+#: ../twentyseventeen/template-parts/post/content-none.php:28
+#: ../twentysixteen/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Изглежда, че не можем да намерим това, което търсите. Може би търсачката "
+"може да помогне."
+
+#: ../twentyfifteen/footer.php:30 ../twentynineteen/footer.php:25
+#: ../twentyseventeen/template-parts/footer/site-info.php:18
+#: ../twentysixteen/footer.php:60
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:31
+#: ../twentyseventeen/template-parts/footer/site-info.php:19
+#: ../twentysixteen/footer.php:61
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "С гордо захранване от %s"
+
+#: ../twentyfifteen/functions.php:87 ../twentynineteen/functions.php:61
+#: ../twentynineteen/template-parts/header/site-branding.php:46
+#: ../twentyseventeen/functions.php:65 ../twentyseventeen/functions.php:214
+#: ../twentysixteen/functions.php:93 ../twentysixteen/header.php:67
+msgid "Social Links Menu"
+msgstr "Меню за социални медии"
+
+#: ../twentyfifteen/functions.php:188 ../twentynineteen/functions.php:156
+#: ../twentysixteen/functions.php:152
+msgid "Dark Gray"
+msgstr "Тъмно сиво"
+
+#: ../twentyfifteen/functions.php:193 ../twentynineteen/functions.php:161
+#: ../twentysixteen/functions.php:162
+msgid "Light Gray"
+msgstr "Светло сиво"
+
+#: ../twentyfifteen/functions.php:198 ../twentynineteen/functions.php:166
+#: ../twentysixteen/functions.php:167
+msgid "White"
+msgstr "Бял"
+
+#: ../twentyfifteen/functions.php:203 ../twentyfifteen/inc/customizer.php:204
+#: ../twentysixteen/functions.php:207 ../twentysixteen/inc/customizer.php:355
+msgid "Yellow"
+msgstr "Жълто"
+
+#: ../twentyfifteen/functions.php:208 ../twentysixteen/functions.php:187
+msgid "Dark Brown"
+msgstr "Тъмно кафяво"
+
+#: ../twentyfifteen/functions.php:213
+msgid "Medium Pink"
+msgstr "Средно розов"
+
+#: ../twentyfifteen/functions.php:218
+msgid "Light Pink"
+msgstr "Светло розов"
+
+#: ../twentyfifteen/functions.php:223
+msgid "Dark Purple"
+msgstr "Тъмно лилаво"
+
+#: ../twentyfifteen/functions.php:228 ../twentyfifteen/inc/customizer.php:226
+msgid "Purple"
+msgstr "Лилаво"
+
+#: ../twentyfifteen/functions.php:233 ../twentysixteen/functions.php:172
+msgid "Blue Gray"
+msgstr "Синьо Сиво"
+
+#: ../twentyfifteen/functions.php:238 ../twentysixteen/functions.php:177
+msgid "Bright Blue"
+msgstr "Изкрящо син"
+
+#: ../twentyfifteen/functions.php:243 ../twentysixteen/functions.php:182
+msgid "Light Blue"
+msgstr "Светло синьо"
+
+#: ../twentyfifteen/functions.php:266
+msgid "Widget Area"
+msgstr "Област на приспособленията"
+
+#: ../twentyfifteen/functions.php:268 ../twentysixteen/functions.php:267
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+"Добавете приспособления тук, за да се покажат във вашата странична лента."
+
+#: ../twentyfifteen/functions.php:319
+msgid "no-subset"
+msgstr "без подмножества"
+
+#: ../twentyfifteen/functions.php:398 ../twentysixteen/functions.php:407
+msgid "expand child menu"
+msgstr "разгънете подменю"
+
+#: ../twentyfifteen/functions.php:399 ../twentysixteen/functions.php:408
+msgid "collapse child menu"
+msgstr "свиване на подменю"
+
+#: ../twentyfifteen/header.php:27 ../twentynineteen/header.php:25
+#: ../twentyseventeen/header.php:28 ../twentysixteen/header.php:28
+msgid "Skip to content"
+msgstr "Преминете към съдържанието"
+
+#: ../twentyfifteen/header.php:50
+msgid "Menu and widgets"
+msgstr "Меню и приспособления"
+
+#: ../twentyfifteen/image.php:25 ../twentysixteen/image.php:25
+msgid "Previous Image"
+msgstr "Предишно изображение"
+
+#: ../twentyfifteen/image.php:25 ../twentysixteen/image.php:26
+msgid "Next Image"
+msgstr "Следващо изображение"
+
+#: ../twentyfifteen/image.php:88 ../twentysixteen/image.php:107
+#: ../twentysixteen/single.php:31
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Публикувано на</span><span class=\"post-title\">"
+"%title</span>"
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:48
+#: ../twentyfifteen/inc/back-compat.php:64
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Twenty Fifteen изисква поне WordPress версия 4.1. Изпълнявате версия %s. "
+"Моля, надстройте и опитайте отново."
+
+#: ../twentyfifteen/inc/customizer.php:55
+#: ../twentysixteen/inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr "Основна цветова схема"
+
+#: ../twentyfifteen/inc/customizer.php:78
+msgid "Header and Sidebar Text Color"
+msgstr "Цвят на текста на хедъра  и страничната лента"
+
+#: ../twentyfifteen/inc/customizer.php:79
+#: ../twentyfifteen/inc/customizer.php:104
+#: ../twentyfifteen/inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+"Прилага се към хедъра на малки екрани и страничната лента на широките екрани."
+
+#: ../twentyfifteen/inc/customizer.php:103
+msgid "Header and Sidebar Background Color"
+msgstr "Цвят на фона на хедъра и страничната лента"
+
+#: ../twentyfifteen/inc/customizer.php:182
+#: ../twentynineteen/inc/customizer.php:55
+#: ../twentysixteen/inc/customizer.php:315
+msgid "Default"
+msgstr "По подразбиране"
+
+#: ../twentyfifteen/inc/customizer.php:193
+#: ../twentyseventeen/inc/customizer.php:63
+#: ../twentysixteen/inc/customizer.php:325
+msgid "Dark"
+msgstr "Тъмно"
+
+#: ../twentyfifteen/inc/customizer.php:215
+msgid "Pink"
+msgstr "Розово"
+
+#: ../twentyfifteen/inc/customizer.php:237
+msgid "Blue"
+msgstr "Син"
+
+#: ../twentyfifteen/inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Навигация за коментари"
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "По-стари коментари"
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "По-нови коментари"
+
+#: ../twentyfifteen/inc/template-tags.php:49
+#: ../twentynineteen/template-parts/content/content-excerpt.php:18
+#: ../twentynineteen/template-parts/content/content.php:18
+#: ../twentysixteen/template-parts/content.php:14
+msgid "Featured"
+msgstr "Препоръчани"
+
+#: ../twentyfifteen/inc/template-tags.php:56
+#: ../twentysixteen/inc/template-tags.php:40
+msgid "Format"
+msgstr "Формат"
+
+#: ../twentyfifteen/inc/template-tags.php:79
+#: ../twentysixteen/inc/template-tags.php:83
+msgid "Posted on"
+msgstr "Публикувано на"
+
+#: ../twentyfifteen/inc/template-tags.php:89
+#: ../twentysixteen/inc/template-tags.php:26
+msgid "Author"
+msgstr "Автор"
+
+#: ../twentyfifteen/inc/template-tags.php:95
+#: ../twentyfifteen/inc/template-tags.php:104
+#: ../twentynineteen/inc/template-tags.php:86
+#: ../twentynineteen/inc/template-tags.php:98
+#: ../twentyseventeen/inc/template-tags.php:66
+#: ../twentysixteen/inc/template-tags.php:99
+#: ../twentysixteen/inc/template-tags.php:108
+msgid ", "
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:99
+#: ../twentyseventeen/inc/template-tags.php:85
+#: ../twentysixteen/inc/template-tags.php:103
+msgid "Categories"
+msgstr "Категории"
+
+#: ../twentyfifteen/inc/template-tags.php:120 ../twentynineteen/image.php:70
+msgid "Full size"
+msgstr "Пълен размер"
+
+#: ../twentyfifteen/inc/template-tags.php:130
+#: ../twentynineteen/inc/template-tags.php:63
+#: ../twentysixteen/inc/template-tags.php:52
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставете коментар<span class=\"screen-reader-text\"> на %s</span>"
+
+#: ../twentyfifteen/single.php:36 ../twentynineteen/single.php:39
+#: ../twentysixteen/single.php:39
+msgid "Next post:"
+msgstr "Следваща публикация:"
+
+#: ../twentyfifteen/single.php:39 ../twentynineteen/single.php:42
+#: ../twentysixteen/single.php:42
+msgid "Previous post:"
+msgstr "Предишна публикация"
+
+#: ../twentynineteen/classes/class-twentynineteen-walker-comment.php:66
+#, php-format
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">казва:</span>"
+
+#: ../twentynineteen/comments.php:33
+msgid "Join the Conversation"
+msgstr "Присъединете се към дискусията"
+
+#: ../twentynineteen/comments.php:35 ../twentynineteen/comments.php:105
+#: ../twentynineteen/comments.php:107
+msgid "Leave a comment"
+msgstr "Оставете коментар"
+
+#: ../twentynineteen/comments.php:40
+#, php-format
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Един отговор на &ldquo;%s&rdquo;"
+
+#: ../twentynineteen/comments.php:92 ../twentynineteen/comments.php:95
+#: ../twentynineteen/comments.php:96
+msgid "Comments"
+msgstr "Коментари"
+
+#: ../twentynineteen/footer.php:28
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: ../twentynineteen/footer.php:37 ../twentynineteen/functions.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: ../twentynineteen/functions.php:59 ../twentynineteen/functions.php:146
+msgid "Primary"
+msgstr "Основна"
+
+#: ../twentynineteen/functions.php:115
+msgid "Small"
+msgstr ""
+
+#: ../twentynineteen/functions.php:116
+msgid "S"
+msgstr ""
+
+#: ../twentynineteen/functions.php:121
+msgid "Normal"
+msgstr ""
+
+#: ../twentynineteen/functions.php:122
+msgid "M"
+msgstr ""
+
+#: ../twentynineteen/functions.php:127
+msgid "Large"
+msgstr ""
+
+#: ../twentynineteen/functions.php:128
+msgid "L"
+msgstr ""
+
+#: ../twentynineteen/functions.php:133
+msgid "Huge"
+msgstr ""
+
+#: ../twentynineteen/functions.php:134
+msgid "XL"
+msgstr ""
+
+#: ../twentynineteen/functions.php:151
+msgid "Secondary"
+msgstr "Второстепенен"
+
+#: ../twentynineteen/functions.php:190 ../twentyseventeen/functions.php:350
+#: ../twentyseventeen/functions.php:362
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавете приспособления тук, за да се появят във вашия футър."
+
+#: ../twentynineteen/image.php:87
+msgid ""
+"<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Публикуван в</span><br><span class=\"post-title\">"
+"%title</span>"
+
+#: ../twentynineteen/inc/back-compat.php:39
+#: ../twentynineteen/inc/back-compat.php:53
+#: ../twentynineteen/inc/back-compat.php:73
+#, php-format
+msgid ""
+"Twenty Nineteen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentynineteen/inc/customizer.php:56
+#: ../twentyseventeen/inc/customizer.php:64
+msgid "Custom"
+msgstr "Персонализиран"
+
+#: ../twentynineteen/inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr ""
+"Приложете персонализиран цвят за бутони, връзки, представени изображения и "
+"др."
+
+#: ../twentynineteen/inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr ""
+"Приложете филтър към представени изображения, като използвате основния цвят"
+
+#: ../twentynineteen/inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Архиви на Категорията"
+
+#: ../twentynineteen/inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Архиви на маркери:"
+
+#: ../twentynineteen/inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Архиви на Автора:"
+
+#: ../twentynineteen/inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Годишни архиви:"
+
+#: ../twentynineteen/inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Месечни архиви:"
+
+#: ../twentynineteen/inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Дневни архиви:"
+
+#: ../twentynineteen/inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Архиви на типа публикация:"
+
+#: ../twentynineteen/inc/template-functions.php:90
+#, php-format
+msgid "%s Archives:"
+msgstr "%s Архиви:"
+
+#: ../twentynineteen/inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Архиви:"
+
+#: ../twentynineteen/inc/template-functions.php:209
+msgid "More"
+msgstr "Още"
+
+#: ../twentynineteen/inc/template-functions.php:216
+msgid "Back"
+msgstr "Назад"
+
+#: ../twentynineteen/inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Публикувано от"
+
+#: ../twentynineteen/inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Публикувано в"
+
+#: ../twentynineteen/inc/template-tags.php:120
+#: ../twentynineteen/template-parts/content/content-page.php:41
+#: ../twentynineteen/template-parts/header/entry-header.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактиране <span class=\"screen-reader-text\">%s</span>"
+
+#: ../twentynineteen/inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Нови публикации"
+
+#: ../twentynineteen/inc/template-tags.php:234
+msgid "Older posts"
+msgstr "По-стари публикации"
+
+#: ../twentynineteen/search.php:22
+msgid "Search results for:"
+msgstr "Резултати от търсенето за:"
+
+#: ../twentynineteen/single.php:31
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+"<span class=\"meta-nav\">Публикувано в</span><span class=\"post-title\">%s</"
+"span>"
+
+#: ../twentynineteen/single.php:38 ../twentyseventeen/single.php:34
+msgid "Next Post"
+msgstr "Следваща публикация"
+
+#: ../twentynineteen/single.php:41 ../twentyseventeen/single.php:33
+msgid "Previous Post"
+msgstr "Предишна публикация"
+
+#: ../twentynineteen/template-parts/header/site-branding.php:33
+#: ../twentyseventeen/functions.php:64 ../twentyseventeen/functions.php:203
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "Горно меню"
+
+#: ../twentynineteen/template-parts/post/author-bio.php:17
+#, php-format
+msgid "Published by %s"
+msgstr "Публикувано в"
+
+#: ../twentynineteen/template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Вижте още публикации"
+
+#: ../twentynineteen/template-parts/post/discussion-meta.php:16
+#, php-format
+msgid "%d Comment"
+msgstr "%d Коментар"
+
+#: ../twentynineteen/template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Без коментари"
+
+#: ../twentyseventeen/comments.php:37
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Един отговор на &ldquo;%s&rdquo;"
+
+#: ../twentyseventeen/footer.php:26 ../twentysixteen/footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Меню с връзки към социалните мрежи "
+
+#: ../twentyseventeen/functions.php:171
+msgid "Espresso"
+msgstr "Еспресо"
+
+#: ../twentyseventeen/functions.php:175
+msgid "Sandwich"
+msgstr "Сандвич"
+
+#: ../twentyseventeen/functions.php:179
+msgid "Coffee"
+msgstr "Кафе"
+
+#: ../twentyseventeen/functions.php:338
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+"Добавете приспособления тук, за да се показват във вашата странична лента на "
+"публикации в блогове и на архивни страници."
+
+#: ../twentyseventeen/functions.php:348
+msgid "Footer 1"
+msgstr "Футър 1"
+
+#: ../twentyseventeen/functions.php:360
+msgid "Footer 2"
+msgstr "Футър 2"
+
+#: ../twentyseventeen/functions.php:481
+msgid "Expand child menu"
+msgstr "Разширяване на подменюто"
+
+#: ../twentyseventeen/functions.php:482
+msgid "Collapse child menu"
+msgstr "Свиване на подменюто"
+
+#: ../twentyseventeen/inc/back-compat.php:39
+#: ../twentyseventeen/inc/back-compat.php:52
+#: ../twentyseventeen/inc/back-compat.php:70
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr "Изображение подразбиране в хедъра"
+
+#: ../twentyseventeen/inc/custom-header.php:127
+msgid "Play background video"
+msgstr "Възпроизвеждане на фоново видео"
+
+#: ../twentyseventeen/inc/custom-header.php:128
+msgid "Pause background video"
+msgstr "Пауза на фоновото видео"
+
+#: ../twentyseventeen/inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "Цветова схема"
+
+#: ../twentyseventeen/inc/customizer.php:62
+msgid "Light"
+msgstr "Светно"
+
+#: ../twentyseventeen/inc/customizer.php:109
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+"Когато е зададено оформление с две колони, заглавието на страницата е в "
+"едната колона, а съдържанието е в другата."
+
+#: ../twentyseventeen/inc/customizer.php:111
+#: ../twentyseventeen/inc/customizer.php:170
+msgid "One Column"
+msgstr "Една Колона"
+
+#: ../twentyseventeen/inc/customizer.php:112
+#: ../twentyseventeen/inc/customizer.php:171
+msgid "Two Column"
+msgstr "Две Колони"
+
+#: ../twentyseventeen/inc/customizer.php:142
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr "Раздел за първа страница %d Съдържание"
+
+#: ../twentyseventeen/inc/customizer.php:143
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+"От падащите менюта изберете страници за показване във всяка област. Добавете "
+"изображение към раздел, като зададете представено изображение в редактора на "
+"страници. Празни секции няма да се показват."
+
+#: ../twentyseventeen/inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Моля, дефинирайте параметрите по подразбиране под формата на масив."
+
+#: ../twentyseventeen/inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Моля, дефинирайте име на файл с икона на SVG."
+
+#: ../twentyseventeen/inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr "от "
+
+#: ../twentyseventeen/inc/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Публикувано на</span> %s"
+
+#: ../twentyseventeen/inc/template-tags.php:117 ../twentysixteen/image.php:88
+#: ../twentysixteen/template-parts/content-page.php:39
+#: ../twentysixteen/template-parts/content-search.php:28
+#: ../twentysixteen/template-parts/content-search.php:43
+#: ../twentysixteen/template-parts/content-single.php:47
+#: ../twentysixteen/template-parts/content.php:53
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:151
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: ../twentyseventeen/index.php:27
+msgid "Posts"
+msgstr "Публикации"
+
+#: ../twentyseventeen/searchform.php:17 ../twentysixteen/searchform.php:13
+msgid "Search for:"
+msgstr "Търсене на:"
+
+#: ../twentyseventeen/searchform.php:20 ../twentysixteen/searchform.php:16
+msgid "Search"
+msgstr "Търсене"
+
+#: ../twentyseventeen/template-parts/header/site-branding.php:34
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr "Превъртете надолу до съдържанието"
+
+#: ../twentysixteen/footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Главно меню на футър"
+
+#: ../twentysixteen/functions.php:157
+msgid "Medium Gray"
+msgstr "Средно сиво"
+
+#: ../twentysixteen/functions.php:192
+msgid "Medium Brown"
+msgstr "Средно кафяв"
+
+#: ../twentysixteen/functions.php:197
+msgid "Dark Red"
+msgstr "Тъмно червено"
+
+#: ../twentysixteen/functions.php:202
+msgid "Bright Red"
+msgstr "Ярко червено"
+
+#: ../twentysixteen/functions.php:277
+msgid "Content Bottom 1"
+msgstr "Съдържание отдолу 1"
+
+#: ../twentysixteen/functions.php:279 ../twentysixteen/functions.php:291
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+"56 / 5000\n"
+"Резултати за превод\n"
+"Показва се в долната част на съдържанието на публикации и страници."
+
+#: ../twentysixteen/functions.php:289
+msgid "Content Bottom 2"
+msgstr "Съдържание отдолу 2"
+
+#: ../twentysixteen/inc/back-compat.php:41
+#: ../twentysixteen/inc/back-compat.php:54
+#: ../twentysixteen/inc/back-compat.php:72
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:176
+msgid "Page Background Color"
+msgstr "Цвят на фона на страницата"
+
+#: ../twentysixteen/inc/customizer.php:221
+msgid "Main Text Color"
+msgstr "Основен цвят на текста"
+
+#: ../twentysixteen/inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr "Вторичен цвят на текста"
+
+#: ../twentysixteen/inc/customizer.php:335
+msgid "Gray"
+msgstr "Сиво"
+
+#: ../twentysixteen/inc/customizer.php:345
+msgid "Red"
+msgstr "Червен"
+
+#: ../twentysixteen/template-parts/biography.php:28
+msgid "Author:"
+msgstr "Автор:"

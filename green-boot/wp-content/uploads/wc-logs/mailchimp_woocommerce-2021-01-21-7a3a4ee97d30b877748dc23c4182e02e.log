@@ -1,0 +1,13 @@
+2021-01-21T20:24:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 15688
+2021-01-21T20:24:24+00:00 NOTICE debug :: Order ID 15688 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/green-boot/green-boot/wp-login.php
+        )
+
+)
+
+2021-01-21T20:27:35+00:00 ERROR order_submit.error :: addStoreOrder :: #15688 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/green-boot/my-account/view-order/15688/</p> on 1886 in D:\Dev_stuff\WordPress\htdocs\green-boot\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php

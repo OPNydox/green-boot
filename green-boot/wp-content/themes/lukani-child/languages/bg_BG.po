@@ -1,0 +1,1384 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-06 10:37:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bg\n"
+"Project-Id-Version: WordPress - 5.3.x\n"
+
+msgid "    Down in the reeds by the river?"
+msgstr "    Down in the reeds by the river"
+
+msgid "    With the dragon-fly on the river."
+msgstr "    With the dragon-fly on the river."
+
+msgid ""
+"Your theme has 1 other widget area, but this particular page doesn&#8217;t "
+"display it."
+msgstr ""
+"Темата ви има още една странична лента, но точно тази страница не я показва."
+
+msgid ""
+"Your theme has 1 widget area, but this particular page doesn&#8217;t display "
+"it."
+msgstr "Темата ви има 1 странична лента, но точно тази страница не я показва."
+
+msgid ""
+"Your theme uses post formats to highlight different kinds of content, like "
+"images or videos. Apply a post format to see this special styling."
+msgstr ""
+"Вашата тема използва формати на публикациите, за да разграничава различни "
+"типове съдържание, като снимки и видео. Използвайте формат, за да видите "
+"неговия външен вид."
+
+msgid ""
+"Your timezone is set to %1$s (%2$s), currently %3$s (Coordinated Universal "
+"Time %4$s)."
+msgstr ""
+"Вашата часова зона е зададена като %1$s (%2$s), в момента %3$s (Координирано "
+"универсално време %4$s)."
+
+msgid "Your timezone is set to %1$s (Coordinated Universal Time %2$s)."
+msgstr ""
+"Вашата часова зона е зададена като %1$s (Координирано универсално време %2$s)"
+"."
+
+msgid "Your work will be published at the specified date and time."
+msgstr "Вашият материал ще бъде публикуван на определената от вас дата и час."
+
+msgid ""
+"You’ll find more settings for your page and blocks in the sidebar. Click the "
+"cog icon to toggle the sidebar open and closed."
+msgstr ""
+"Ще намерите повече информация за настройките на страницата и блоковете си на "
+"страничната лента. За да отворите или затворите страничната лента, натиснете "
+"иконката, приличаща на зъбно колело."
+
+msgid "Z → A"
+msgstr "Я \t А"
+
+msgid "[%1$s] Action Confirmed: %2$s"
+msgstr "[%1$s] Потвърдено действие: %2$s"
+
+msgid "[%1$s] Comment: \"%2$s\""
+msgstr "[%1$s] Коментар: \"%2$s\""
+
+msgid "[%1$s] Confirm Action: %2$s"
+msgstr "[%1$s] Потвърждаване на действие: %2$s"
+
+msgid "[%1$s] Pingback: \"%2$s\""
+msgstr "[%1$s] Pingback: \"%2$s\""
+
+msgid "[%1$s] Please moderate: \"%2$s\""
+msgstr "[%1$s] За одобрение: \"%2$s\""
+
+msgid "[%1$s] Trackback: \"%2$s\""
+msgstr "[%1$s] Trackback: \"%2$s\""
+
+msgid "[%s] Admin Email Changed"
+msgstr "[%s] Имейл адресът на администратора е променен"
+
+msgid "[%s] Email Change Request"
+msgstr "[%s] Искане за промяна на имейл адреса"
+
+msgid "[%s] Email Changed"
+msgstr "[%s] Електронната поща е променена"
+
+msgid "[%s] Erasure Request Fulfilled"
+msgstr "[%s] Молбата за изтриване e удовлетворена"
+
+msgid "[%s] Login Details"
+msgstr "[%s] Данни за вписване"
+
+msgid "[%s] Network Admin Email Change Request"
+msgstr "[%s] Искане за промяна на имейл адреса на мрежовия администратор"
+
+msgid "[%s] Network Admin Email Changed"
+msgstr "[%s] Имейл адресът на мрежовия администратор е променен "
+
+msgid "[%s] New User Registration"
+msgstr "[%s] Регистриране на нов потребител"
+
+msgid "[%s] Password Changed"
+msgstr "[%s] Паролата е променена"
+
+msgid "[%s] Password Reset"
+msgstr "[%s] Промяна на парола"
+
+msgid "[%s] Your Site is Experiencing a Technical Issue"
+msgstr "[%s] Сайтът ви има технически проблем"
+
+msgid "[deleted]"
+msgstr "[изтрито]"
+
+msgctxt "add new from admin bar"
+msgid "Link"
+msgstr "Връзка"
+
+msgctxt "add new from admin bar"
+msgid "Media"
+msgstr "Качване на файлове"
+
+msgctxt "add new from admin bar"
+msgid "Page"
+msgstr "Страница"
+
+msgctxt "add new from admin bar"
+msgid "Post"
+msgstr "Публикация"
+
+msgctxt "add new from admin bar"
+msgid "User"
+msgstr "Потребител"
+
+msgctxt "add new media"
+msgid "Add New"
+msgstr "Нов файл"
+
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr "Блок"
+
+msgctxt "add new on admin bar"
+msgid "Changeset"
+msgstr "Набор от промени"
+
+msgctxt "admin bar menu group label"
+msgid "New"
+msgstr "Създаване"
+
+msgctxt "admin color scheme"
+msgid "Blue"
+msgstr "Синьо"
+
+msgctxt "admin color scheme"
+msgid "Coffee"
+msgstr "Кафе"
+
+msgctxt "admin color scheme"
+msgid "Default"
+msgstr "Основна"
+
+msgctxt "admin color scheme"
+msgid "Ectoplasm"
+msgstr "Ектоплазма"
+
+msgctxt "admin color scheme"
+msgid "Light"
+msgstr "Светла"
+
+msgctxt "admin color scheme"
+msgid "Midnight"
+msgstr "Тъмна"
+
+msgctxt "admin color scheme"
+msgid "Ocean"
+msgstr "Океан море"
+
+msgctxt "admin color scheme"
+msgid "Sunrise"
+msgstr "Изгрев"
+
+msgctxt "admin menu"
+msgid "Blocks"
+msgstr "Блокове"
+
+msgctxt "admin menu"
+msgid "Changesets"
+msgstr "Набори от промени"
+
+msgid "am"
+msgstr "am"
+
+msgctxt "apostrophe"
+msgid "&#8217;"
+msgstr "&#8217;"
+
+msgid "archive"
+msgstr "архив"
+
+msgid "atom"
+msgstr "atom"
+
+msgid "audio"
+msgstr "аудио"
+
+msgctxt "auto preload"
+msgid "Auto"
+msgstr "Автоматично"
+
+msgctxt "block name"
+msgid "More"
+msgstr "Още"
+
+msgctxt "block style"
+msgid "Circle Mask"
+msgstr "Кръгло покритие"
+
+msgctxt "block style"
+msgid "Default"
+msgstr "По подразбиране"
+
+msgctxt "block style"
+msgid "Large"
+msgstr "Голям"
+
+msgctxt "block title"
+msgid "Classic"
+msgstr "Класически"
+
+msgctxt "block title"
+msgid "Embed"
+msgstr "Вграждане"
+
+msgid "blockquote"
+msgstr "блоков цитат"
+
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Най-използван"
+
+msgid "blog"
+msgstr "блог"
+
+msgid "bullet list"
+msgstr "неномериран списък"
+
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Превръщане във връзка"
+
+msgctxt "button label"
+msgid "Download"
+msgstr "Изтегляне"
+
+msgctxt "button label"
+msgid "Embed"
+msgstr "Вмъкване"
+
+msgctxt "button label"
+msgid "Import"
+msgstr "Импортиране"
+
+msgctxt "button label"
+msgid "Try again"
+msgstr "Опитайте отново"
+
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Още"
+
+msgid "by"
+msgstr "от"
+
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+msgctxt "categories"
+msgid "Most Used"
+msgstr "Най-използвани"
+
+msgid "cite"
+msgstr "цитиране"
+
+msgid "close tags"
+msgstr "затваряне на таговете"
+
+msgctxt "closing curly double quote"
+msgid "&#8221;"
+msgstr "&#8220;"
+
+msgctxt "closing curly single quote"
+msgid "&#8217;"
+msgstr "&#8217;"
+
+msgctxt "comment status"
+msgid "Approved"
+msgstr "Одобрена"
+
+msgctxt "comment status"
+msgid "Spam"
+msgstr "Спам"
+
+msgctxt "comment status"
+msgid "Trash"
+msgstr "Изтрит"
+
+msgctxt "comment_excerpt_length"
+msgid "20"
+msgstr "20"
+
+msgid "container"
+msgstr "контейнер"
+
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Съдържание..."
+
+msgctxt "custom headers"
+msgid "Previously uploaded"
+msgstr "Вече добавени"
+
+msgctxt "custom headers"
+msgid "Suggested"
+msgstr "Предложения"
+
+msgctxt "customizer changeset action/button label"
+msgid "Schedule"
+msgstr "Планиране"
+
+msgctxt "customizer changeset status"
+msgid "Scheduled"
+msgstr "Планирано"
+
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+msgctxt "decline months names: on or off"
+msgid "off"
+msgstr "off"
+
+msgctxt "default site language"
+msgid "Site Default"
+msgstr "По подразбиране за сайта"
+
+msgid "divider"
+msgstr "разделител"
+
+msgid "document"
+msgstr "документ"
+
+msgid "domain"
+msgstr "домейн"
+
+msgctxt "double prime"
+msgid "&#8243;"
+msgstr "&#8243;"
+
+msgid "ebook"
+msgstr "електронна книга"
+
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "От ляво на дясно"
+
+msgctxt "editor button"
+msgid "Right to left"
+msgstr "От дясно на ляво"
+
+msgctxt "editor button"
+msgid "Show blocks"
+msgstr "Показване на блокове"
+
+msgctxt "em dash"
+msgid "&#8212;"
+msgstr "&#8211;"
+
+msgid "embed"
+msgstr "вграждане"
+
+msgctxt "en dash"
+msgid "&#8211;"
+msgstr "&#8211;"
+
+msgctxt "excerpt_length"
+msgid "55"
+msgstr "55"
+
+msgid "feed"
+msgstr "поток"
+
+msgctxt "feed link"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgctxt "file type group"
+msgid "Archives"
+msgstr "Архиви"
+
+msgid "find"
+msgstr "търсене"
+
+msgctxt "find/replace"
+msgid "Find"
+msgstr "Намиране"
+
+msgctxt "find/replace"
+msgid "Next"
+msgstr "Следващ"
+
+msgctxt "find/replace"
+msgid "Prev"
+msgstr "Предишен"
+
+msgctxt "find/replace"
+msgid "Replace"
+msgstr "Замяна"
+
+msgctxt "find/replace"
+msgid "Replace all"
+msgstr "Замяна на всички"
+
+msgctxt "find/replace"
+msgid "Replace with"
+msgstr "Замени с"
+
+msgctxt "find/replace"
+msgid "Whole words"
+msgstr "Цели думи"
+
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Огромен"
+
+msgctxt "font size name"
+msgid "Large"
+msgstr "Голям"
+
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Среден"
+
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Нормален"
+
+msgctxt "font size name"
+msgid "Small"
+msgstr "Малък"
+
+msgid "g:i a"
+msgstr "G:i"
+
+msgctxt "genitive"
+msgid "April"
+msgstr "април"
+
+msgctxt "genitive"
+msgid "August"
+msgstr "август"
+
+msgctxt "genitive"
+msgid "December"
+msgstr "декември"
+
+msgctxt "genitive"
+msgid "February"
+msgstr "февруари"
+
+msgctxt "genitive"
+msgid "January"
+msgstr "януари"
+
+msgctxt "genitive"
+msgid "July"
+msgstr "юли"
+
+msgctxt "genitive"
+msgid "June"
+msgstr "юни"
+
+msgctxt "genitive"
+msgid "March"
+msgstr "март"
+
+msgctxt "genitive"
+msgid "May"
+msgstr "май"
+
+msgctxt "genitive"
+msgid "November"
+msgstr "ноември"
+
+msgctxt "genitive"
+msgid "October"
+msgstr "октомври"
+
+msgctxt "genitive"
+msgid "September"
+msgstr "септември"
+
+msgctxt "horizontal table cell alignment"
+msgid "H Align"
+msgstr "Хоризонтално подравняване"
+
+msgid "horizontal-line"
+msgstr "хоризонтална линия"
+
+msgid "html_lang_attribute"
+msgstr "bg-BG"
+
+msgid "https://codex.wordpress.org/"
+msgstr "https://codex.wordpress.org/"
+
+msgid "https://codex.wordpress.org/CSS"
+msgstr "https://codex.wordpress.org/CSS"
+
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Cookies"
+
+msgid "https://codex.wordpress.org/Function_Reference/is_main_query"
+msgstr "https://codex.wordpress.org/Function_Reference/is_main_query"
+
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+msgid "https://wordpress.org/support/"
+msgstr "https://wordpress.org/support/"
+
+msgid "https://wordpress.org/support/article/cookies/"
+msgstr "https://wordpress.org/support/article/cookies/"
+
+msgid ""
+"https://wordpress.org/support/article/cookies/#enable-cookies-in-your-browser"
+msgstr ""
+"https://wordpress.org/support/article/cookies/#enable-cookies-in-your-browser"
+
+msgid "https://wordpress.org/support/article/debugging-a-wordpress-network/"
+msgstr "https://wordpress.org/support/article/debugging-a-wordpress-network/"
+
+msgid "https://wordpress.org/support/article/debugging-in-wordpress/"
+msgstr "https://wordpress.org/support/article/debugging-in-wordpress/"
+
+msgid "https://wordpress.org/support/article/editing-wp-config-php/"
+msgstr "https://wordpress.org/support/article/editing-wp-config-php/"
+
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+msgid "https://wordpress.org/support/article/resetting-your-password/"
+msgstr "https://wordpress.org/support/article/resetting-your-password/"
+
+msgid ""
+"https://wordpress.org/support/article/settings-general-screen/#email-address"
+msgstr ""
+"https://wordpress.org/support/article/settings-general-screen/#email-address"
+
+msgid ""
+"https://wordpress.org/support/article/using-permalinks/#choosing-your-"
+"permalink-structure"
+msgstr ""
+"https://wordpress.org/support/article/using-permalinks/#choosing-your-"
+"permalink-structure"
+
+msgid "https://wordpress.org/support/article/wordpress-widgets/"
+msgstr "https://wordpress.org/support/article/wordpress-widgets/"
+
+msgid "https://wordpress.org/support/forum/requests-and-feedback"
+msgstr "https://wordpress.org/support/forum/requests-and-feedback"
+
+msgid "https://wordpress.org/support/forums/"
+msgstr "https://wordpress.org/support/forums/"
+
+msgid "image"
+msgstr "изображение"
+
+msgid "image %1$d of %2$d in gallery"
+msgstr "Изображение %1$d от %2$d в галерията"
+
+msgid "images"
+msgstr "изображения"
+
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Преглеждане"
+
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Разрешаване"
+
+msgid "is now live."
+msgstr "се публикува успешно."
+
+msgid "is now scheduled. It will go live on"
+msgstr "вече е планирана. Ще се публикува на"
+
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Интервал"
+
+msgid "l, F jS, Y"
+msgstr "d.m.Y"
+
+msgctxt "label"
+msgid "Search for:"
+msgstr "Търсене за:"
+
+msgctxt "label for button in the audio widget"
+msgid "Add Audio"
+msgstr "Добавяне на аудио"
+
+msgctxt ""
+"label for button in the audio widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Audio"
+msgstr "Редакция"
+
+msgctxt ""
+"label for button in the audio widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Audio"
+msgstr "Замяна аудио"
+
+msgctxt ""
+"label for button in the gallery widget; should not be longer than ~13 "
+"characters long"
+msgid "Add Images"
+msgstr "Добавяне на изображения"
+
+msgctxt ""
+"label for button in the gallery widget; should not be longer than ~13 "
+"characters long"
+msgid "Edit Gallery"
+msgstr "Редактиране"
+
+msgctxt "label for button in the image widget"
+msgid "Add Image"
+msgstr "Добави изображение"
+
+msgctxt ""
+"label for button in the image widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Image"
+msgstr "Редакция"
+
+msgctxt ""
+"label for button in the image widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Image"
+msgstr "Заместване"
+
+msgctxt "label for button in the media widget"
+msgid "Add Media"
+msgstr "Добави файл"
+
+msgctxt ""
+"label for button in the media widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Media"
+msgstr "Редакция"
+
+msgctxt ""
+"label for button in the media widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Media"
+msgstr "Замяна"
+
+msgctxt "label for button in the video widget"
+msgid "Add Video"
+msgstr "Добави видео"
+
+msgctxt ""
+"label for button in the video widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Video"
+msgstr "Редакция"
+
+msgctxt ""
+"label for button in the video widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Video"
+msgstr "Заместване"
+
+msgctxt "label for custom color"
+msgid "Custom..."
+msgstr "Друг..."
+
+msgctxt "label for hide controls button without length constraints"
+msgid "Hide Controls"
+msgstr "Скриване на бутоните"
+
+msgctxt "label for hide controls button without length constraints"
+msgid "Show Controls"
+msgstr "Показване на бутоните"
+
+msgid "link"
+msgstr "връзка"
+
+msgctxt "links widget"
+msgid "All Links"
+msgstr "Всички връзки"
+
+msgctxt "list style"
+msgid "Circle"
+msgstr "Кръг"
+
+msgctxt "list style"
+msgid "Default"
+msgstr "Нормален"
+
+msgctxt "list style"
+msgid "Disc"
+msgstr "Най-новите горе"
+
+msgctxt "list style"
+msgid "Lower Alpha"
+msgstr "Малки латински"
+
+msgctxt "list style"
+msgid "Lower Greek"
+msgstr "Малки гръцки"
+
+msgctxt "list style"
+msgid "Lower Roman"
+msgstr "Малки римски"
+
+msgctxt "list style"
+msgid "Square"
+msgstr "Квадрат"
+
+msgctxt "list style"
+msgid "Upper Alpha"
+msgstr "Главни латински"
+
+msgctxt "list style"
+msgid "Upper Roman"
+msgstr "Главни римски"
+
+msgctxt "localized PHP upgrade information page"
+msgid "https://wordpress.org/support/update-php/"
+msgstr "https://wordpress.org/support/update-php/"
+
+msgid "media"
+msgstr "медия"
+
+msgctxt "media"
+msgid "Remove video track"
+msgstr "Премахване на видеото"
+
+msgctxt "media items"
+msgid "Mine"
+msgstr "Мои"
+
+msgctxt "media modal menu"
+msgid "Menu"
+msgstr "Меню"
+
+msgctxt "media modal menu actions"
+msgid "Actions"
+msgstr "Действия"
+
+msgctxt "menu"
+msgid "(Currently set to: %s)"
+msgstr "(В момента е: %s)"
+
+msgctxt "menu location"
+msgid "(Current: %s)"
+msgstr "(Настоящо: %s)"
+
+msgctxt "menu locations"
+msgid ""
+"(If you plan to use a menu <a href=\"%1$s\" %2$s>widget%3$s</a>, skip this "
+"step.)"
+msgstr ""
+"(Ако планирате да използвате <a href=\"%1$s\" %2$s>джаджа за меню%3$s</a>, "
+"прескочете тази стъпка.)"
+
+msgctxt "menu locations"
+msgid ""
+"Here&#8217;s where this menu appears. If you&#8217;d like to change that, "
+"pick another location."
+msgstr ""
+"Ето къде се показва това меню. Ако искате да промените това, изберете друга "
+"позиция."
+
+msgctxt "menu locations"
+msgid "View All Locations"
+msgstr "Преглед на всички позиции"
+
+msgctxt "menu locations"
+msgid "View Location"
+msgstr "Преглед на позиция"
+
+msgctxt "menu locations"
+msgid "Where do you want this menu to appear?"
+msgstr "Къде искате да се показва това меню?"
+
+msgctxt "missing menu item navigation label"
+msgid "(no label)"
+msgstr "(няма етикет)"
+
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+msgid "moved to the trash."
+msgstr "преместен в Кошчето."
+
+msgid "movie"
+msgstr "филм"
+
+msgid "music"
+msgstr "музика"
+
+msgctxt "nav menu home label"
+msgid "Home"
+msgstr "Начало"
+
+msgid "new WordPress Loop"
+msgstr "новият WordPress Loop"
+
+msgid "next page"
+msgstr "следваща страница"
+
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "Следващи"
+
+msgid "no parent"
+msgstr "без родител"
+
+msgid "no title"
+msgstr "няма заглавие"
+
+msgctxt "noun"
+msgid "Comment"
+msgstr "Коментар:"
+
+msgctxt "noun"
+msgid "Trash"
+msgstr "Кошче"
+
+msgctxt "noun"
+msgid "View"
+msgstr "Преглед"
+
+msgid "number_format_decimal_point"
+msgstr ","
+
+msgid "number_format_thousands_sep"
+msgstr " "
+
+msgid "numbered list"
+msgstr "номериран списък"
+
+msgid "oEmbed Response"
+msgstr "Отговор от oEmbed"
+
+msgid "oEmbed Responses"
+msgstr "Отговори от oEmbed"
+
+msgid "of"
+msgstr "на"
+
+msgctxt "opening curly double quote"
+msgid "&#8220;"
+msgstr "&#8222;"
+
+msgctxt "opening curly single quote"
+msgid "&#8216;"
+msgstr "&#8216;"
+
+msgid "ordered list"
+msgstr "подреден списък"
+
+msgctxt "page"
+msgid "Add New"
+msgstr "Добавяне"
+
+msgctxt "page"
+msgid "Featured Image"
+msgstr "Картинка за страницата"
+
+msgctxt "page"
+msgid "Remove featured image"
+msgstr "Изтриване на картинката за страницата"
+
+msgctxt "page"
+msgid "Set featured image"
+msgstr "Задаване на картинка за страницата"
+
+msgctxt "page"
+msgid "Use as featured image"
+msgstr "Избор като картинка за страницата"
+
+msgid "pagination"
+msgstr "номерация"
+
+msgctxt "password mismatch"
+msgid "Mismatch"
+msgstr "Паролите не съвпадат"
+
+msgctxt "password strength"
+msgid "Medium"
+msgstr "Средна"
+
+msgctxt "password strength"
+msgid "Password strength unknown"
+msgstr "Силата на паролата е неизвестна"
+
+msgctxt "password strength"
+msgid "Strong"
+msgstr "Силна"
+
+msgctxt "password strength"
+msgid "Very weak"
+msgstr "Прекално слаба"
+
+msgctxt "password strength"
+msgid "Weak"
+msgstr "Слаба"
+
+msgid "pdf"
+msgstr "pdf"
+
+msgid "photo"
+msgstr "снимка"
+
+msgid "photos"
+msgstr "снимки"
+
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Търсене &hellip;"
+
+msgctxt "playlist item title"
+msgid "&#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;"
+
+msgctxt "plugin"
+msgid "%s installation failed"
+msgstr "Неуспешно инсталиране на %s "
+
+msgctxt "plugin"
+msgid "%s installed!"
+msgstr "%s инсталирано!"
+
+msgctxt "plugin"
+msgid "%s update failed"
+msgstr "Грешка при обновяването на %s"
+
+msgctxt "plugin"
+msgid "%s updated!"
+msgstr "%s бе обновено!"
+
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активиране на %s"
+
+msgctxt "plugin"
+msgid "Deleted!"
+msgstr "Разширението е изтрито!"
+
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Инсталирай %s"
+
+msgctxt "plugin"
+msgid "Installed!"
+msgstr "Инсталирано!"
+
+msgctxt "plugin"
+msgid "Installing %s..."
+msgstr "Инсталиране на %s..."
+
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Активиране за мрежата %s"
+
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Обнови %s"
+
+msgctxt "plugin"
+msgid "Updated!"
+msgstr "Обновено!"
+
+msgctxt "plugin"
+msgid "Updating %s..."
+msgstr "Обновяване на %s..."
+
+msgid "pm"
+msgstr "pm"
+
+msgid "poetry"
+msgstr "поезия"
+
+msgid "post"
+msgstr "публикация"
+
+msgctxt "post"
+msgid "Add New"
+msgstr "Добавяне"
+
+msgctxt "post"
+msgid "Featured Image"
+msgstr "Картинка за публикацията"
+
+msgctxt "post"
+msgid "Remove featured image"
+msgstr "Изтриване на картинката за публикацията"
+
+msgctxt "post"
+msgid "Set featured image"
+msgstr "Задаване на картинка за публикацията"
+
+msgctxt "post"
+msgid "Use as featured image"
+msgstr "Избор като картинка за публикацията"
+
+msgctxt "post action/button label"
+msgid "Schedule"
+msgstr "Планиране"
+
+msgctxt "post format"
+msgid "Format"
+msgstr "Формат"
+
+msgctxt "post format"
+msgid "Formats"
+msgstr "Формати"
+
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Бележки"
+
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Разговори"
+
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерии"
+
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Връзки"
+
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитати"
+
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статуси"
+
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+msgctxt "post password form"
+msgid "Enter"
+msgstr "Вход"
+
+msgctxt "post status"
+msgid "Draft"
+msgstr "Чернова"
+
+msgctxt "post status"
+msgid "Pending"
+msgstr "Изчакваща"
+
+msgctxt "post status"
+msgid "Private"
+msgstr "Лична"
+
+msgctxt "post status"
+msgid "Published"
+msgstr "Публикувана"
+
+msgctxt "post status"
+msgid "Scheduled"
+msgstr "Планирана"
+
+msgctxt "post status"
+msgid "Trash"
+msgstr "Изтрита"
+
+msgctxt "post type general name"
+msgid "Blocks"
+msgstr "Блокове"
+
+msgctxt "post type general name"
+msgid "Changesets"
+msgstr "Набори от промени"
+
+msgctxt "post type general name"
+msgid "Media"
+msgstr "Файлове"
+
+msgctxt "post type general name"
+msgid "Pages"
+msgstr "Страници"
+
+msgctxt "post type general name"
+msgid "Posts"
+msgstr "Публикации"
+
+msgctxt "post type singular name"
+msgid "Block"
+msgstr "Блок"
+
+msgctxt "post type singular name"
+msgid "Changeset"
+msgstr "Набор от промени"
+
+msgctxt "post type singular name"
+msgid "Page"
+msgstr "Страница"
+
+msgctxt "post type singular name"
+msgid "Post"
+msgstr "Публикация"
+
+msgid "posts"
+msgstr "публикации"
+
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "Предишни"
+
+msgctxt "prime"
+msgid "&#8242;"
+msgstr "&#8242;"
+
+msgid "recent comments"
+msgstr "последни коментари"
+
+msgid "recent posts"
+msgstr "скорошни публикации"
+
+msgid "registerBlockType( name, settings );"
+msgstr "registerBlockType( име, настройки );"
+
+msgctxt "request status"
+msgid "Completed"
+msgstr "Готово"
+
+msgctxt "request status"
+msgid "Confirmed"
+msgstr "Потвърдено"
+
+msgctxt "request status"
+msgid "Failed"
+msgstr "Грешка"
+
+msgctxt "request status"
+msgid "Pending"
+msgstr "Изчакване"
+
+msgctxt "revision date format"
+msgid "F j, Y @ H:i:s"
+msgstr "d.m.Y G:i:s"
+
+msgid "row"
+msgstr "ред"
+
+msgid "section"
+msgstr "секция"
+
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; Назад до %s"
+
+msgid "sitename"
+msgstr "име на сайт"
+
+msgctxt "spellcheck"
+msgid "Finish"
+msgstr "Край"
+
+msgctxt "spellcheck"
+msgid "Ignore"
+msgstr "Игнориране"
+
+msgctxt "spellcheck"
+msgid "Ignore all"
+msgstr "Игнориране на всички"
+
+msgctxt "submit button"
+msgid "Search"
+msgstr "Търсене"
+
+msgid "subtitle"
+msgstr "подзаглавие"
+
+msgctxt "table body"
+msgid "Body"
+msgstr "Тяло"
+
+msgctxt "table cell"
+msgid "Cell"
+msgstr "Клетки"
+
+msgctxt "table cell alignment attribute"
+msgid "None"
+msgstr "Без"
+
+msgctxt "table cell scope attribute"
+msgid "Scope"
+msgstr "Обхват"
+
+msgctxt "table column"
+msgid "Column"
+msgstr "Колона"
+
+msgctxt "table columns"
+msgid "Cols"
+msgstr "Колони"
+
+msgctxt "table footer"
+msgid "Footer"
+msgstr "Футър"
+
+msgctxt "table header"
+msgid "Header"
+msgstr "Заглавка"
+
+msgctxt "tag delimiter"
+msgid ","
+msgstr ","
+
+msgctxt "tags"
+msgid "Most Used"
+msgstr "Най-използвани"
+
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Категории"
+
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Етикети"
+
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Категория"
+
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Етикет"
+
+msgctxt "term"
+msgid "%s added"
+msgstr "%s е прибавен"
+
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s е премахнат"
+
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Премахване на %s"
+
+msgid "text"
+msgstr "текст"
+
+msgid "text direction"
+msgstr "направление на текста"
+
+msgctxt "text direction"
+msgid "ltr"
+msgstr "ltr"
+
+msgctxt "theme"
+msgid "%s installation failed"
+msgstr "Неуспешно инсталиране на %s"
+
+msgctxt "theme"
+msgid "%s installed!"
+msgstr "%s инсталирана!"
+
+msgctxt "theme"
+msgid "Activate %s"
+msgstr "Активиране на %s"
+
+msgctxt "theme"
+msgid "Change"
+msgstr "Смяна"
+
+msgctxt "theme"
+msgid "Deleted!"
+msgstr "Темата е изтрита!"
+
+msgctxt "theme"
+msgid "Installed"
+msgstr "Инсталирано"
+
+msgctxt "theme"
+msgid "Installed!"
+msgstr "Инсталирана!"
+
+msgctxt "theme"
+msgid "Installing %s..."
+msgstr "Инсталиране на %s..."
+
+msgctxt "theme"
+msgid "Network Activate %s"
+msgstr "Активиране за мрежата на %s"
+
+msgctxt "theme"
+msgid "Updated!"
+msgstr "Обновена!"
+
+msgctxt "theme author"
+msgid "By %s"
+msgstr "От %s"
+
+msgid "title"
+msgstr "заглавие"
+
+msgctxt "translations"
+msgid "Available"
+msgstr "Налични"
+
+msgctxt "translations"
+msgid "Installed"
+msgstr "Инсталирани"
+
+msgctxt "user dropdown"
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+msgctxt "verb"
+msgid "Group"
+msgstr "Групиране"
+
+msgctxt "vertical table cell alignment"
+msgid "V Align"
+msgstr "Вертикално подравняване"
+
+msgid "video"
+msgstr "видео"
+
+msgctxt "video or audio"
+msgid "Length"
+msgstr "Време"
+
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s за %2$s"
+
+msgid "wrapper"
+msgstr "обвивка"
+
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "— Kobayashi Issa (一茶)"
+msgstr "— Кобаяши Иса (一茶)"
